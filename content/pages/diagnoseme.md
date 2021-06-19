@@ -9,7 +9,7 @@ sections:
       the devlog of the most anticipated game of 2022 - Diagnose me
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: recent posts
     section_id: lorem-ipsum
     posts_number: 4
     actions: []
