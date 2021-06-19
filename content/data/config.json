@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
                 "label": "diagnose me devlog",
                 "url": "/diagnoseme",
                 "style": "link",
@@ -29,6 +24,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
             },
             {
                 "label": "Style Guide",
