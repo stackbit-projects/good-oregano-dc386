@@ -16,7 +16,6 @@ sections:
     type: section_posts
     category: diagnoseme_devlog
 seo:
-  title: ''
   description: ''
   robots: []
   extra: []
