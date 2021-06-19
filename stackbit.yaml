@@ -374,6 +374,7 @@ models:
           - stackbit_page_meta
       - type: string
         name: category
+        label: Category
   section:
     type: object
     label: Section
