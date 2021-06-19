@@ -22,7 +22,7 @@
                 "style": "link"
             },
             {
-                "label": "diagnoseme",
+                "label": "diagnose me",
                 "url": "/diagnoseme",
                 "style": "link",
                 "icon_class": "dev",
