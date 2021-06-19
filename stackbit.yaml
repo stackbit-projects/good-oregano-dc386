@@ -454,6 +454,7 @@ models:
         name: category
         label: Category
         options: [devlog, journal, tech, all]
+        default: all
   section_form:
     type: object
     label: Form Section
