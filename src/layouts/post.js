@@ -12,7 +12,7 @@ export default class Post extends React.Component {
         const page = _.get(this.props, 'page');
         const title = _.get(page, 'title');
         const subtitle = _.get(page, 'subtitle');
-        const category = _.get(page, 'subtitle');
+        const category = _.get(page, 'category');
         const image = _.get(page, 'content_img_path');
         const imageAlt = _.get(page, 'content_img_alt', '');
         const date = _.get(page, 'date');
