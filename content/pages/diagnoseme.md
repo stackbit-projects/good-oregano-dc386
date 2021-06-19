@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Diagnose Me
 hide_title: true
 excerpt: lorem-ipsum
 sections:
