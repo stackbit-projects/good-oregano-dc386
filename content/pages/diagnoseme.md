@@ -3,7 +3,7 @@ title: Diagnose Me
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: Diagnose Me
+  - title: Diagnose Me Devlog
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
