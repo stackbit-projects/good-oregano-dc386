@@ -28,7 +28,7 @@ sections:
       - label: View Blog
         url: blog/index.html
         style: button
-    category: devlog
+    category: all
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
