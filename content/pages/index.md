@@ -6,11 +6,11 @@ sections:
     type: section_hero
     title: 'Hi, I''m Tzur E.'
     content: >
-      I'm a Software and Game developer.
+      I'm a Software and Game developer, gamer, bookworm, and also a dad.
 
 
-      Currently developing cool stuff at Flipkart.com, and also working with my
-      wife on our first Single-player game - [Diagnose
+      Currently developing amazing stuff at Flipkart.com, and also working with
+      my wife on our first Single-player game - [Diagnose
       me](tzure.com/diagnoseme).
   - section_id: about
     type: section_content
