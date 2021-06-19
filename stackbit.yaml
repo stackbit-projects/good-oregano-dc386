@@ -453,7 +453,7 @@ models:
       - type: enum
         name: category
         label: Category
-        options: [devlog, diagnoseme_devlog journal, tech, all]
+        options: [devlog, diagnoseme_devlog, journal, tech, all]
         default: all
   section_form:
     type: object
