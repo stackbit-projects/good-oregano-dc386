@@ -22,7 +22,7 @@
                 "style": "link"
             },
             {
-                "label": "diagnose me",
+                "label": "diagnose me devlog",
                 "url": "/diagnoseme",
                 "style": "link",
                 "icon_class": "dev",
