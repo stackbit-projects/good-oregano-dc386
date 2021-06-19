@@ -453,7 +453,7 @@ models:
       - type: enum
         name: category
         label: Category
-        options: [devlog, journal, tech]
+        options: [devlog, journal, tech, all]
   section_form:
     type: object
     label: Form Section
