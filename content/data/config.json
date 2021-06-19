@@ -2,7 +2,7 @@
     "title": "Stackbit Fresh Theme",
     "path_prefix": "/",
     "layout_style": "overflow",
-    "palette": "green",
+    "palette": "blue",
     "header": {
         "title": "Stackbit Fresh",
         "tagline": "Header Tagline",
