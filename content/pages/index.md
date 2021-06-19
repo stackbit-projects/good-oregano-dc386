@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Tzur E.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I'm a Software and Game developer.
+
+
+      Currently developing cool stuff at Flipkart.com, and also working with my
+      wife on our first Single-player game - Diagnose me.
   - section_id: about
     type: section_content
     title: About
