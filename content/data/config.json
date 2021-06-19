@@ -5,7 +5,7 @@
     "palette": "blue",
     "header": {
         "title": "Tzur E",
-        "profile_img": "images/avatar.png",
+        "profile_img": "/images/Tzur.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
