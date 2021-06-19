@@ -23,7 +23,7 @@
             },
             {
                 "label": "diagnoseme",
-                "url": "#diagnoseme",
+                "url": "/diagnoseme",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
