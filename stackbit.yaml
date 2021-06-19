@@ -375,7 +375,7 @@ models:
       - type: enum
         name: category
         label: Category
-        options: [foo, bar, baz]
+        options: [devlog, , baz]
   section:
     type: object
     label: Section
