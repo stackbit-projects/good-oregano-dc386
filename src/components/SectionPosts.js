@@ -53,7 +53,7 @@ export default class SectionPosts extends React.Component {
                 return true
             }
             return post.category == category;
-        }));
+        });
         const postsNumber = _.get(section, 'posts_number', 2);
         const recentPosts = posts.slice(0, postsNumber);
 
