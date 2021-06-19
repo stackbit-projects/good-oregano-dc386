@@ -8,7 +8,7 @@ sections:
     posts_number: 4
     actions: []
     type: section_posts
-    category: journal
+    category: devlog
 seo:
   title: ''
   description: ''
