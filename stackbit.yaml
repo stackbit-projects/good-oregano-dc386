@@ -375,6 +375,7 @@ models:
       - type: enum
         name: category
         label: Category
+        options:
   section:
     type: object
     label: Section
