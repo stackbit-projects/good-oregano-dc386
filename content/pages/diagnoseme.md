@@ -5,12 +5,6 @@ excerpt: lorem-ipsum
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    posts_number: 4
-    actions: []
-    type: section_posts
-    category: diagnoseme_devlog
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
@@ -24,6 +18,12 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 4
+    actions: []
+    type: section_posts
+    category: diagnoseme_devlog
 seo:
   title: ''
   description: ''
