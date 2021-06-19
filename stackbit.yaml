@@ -450,6 +450,10 @@ models:
           type: model
           models:
             - action
+      - type: enum
+        name: category
+        label: Category
+        options: [devlog, journal, tech]
   section_form:
     type: object
     label: Form Section
