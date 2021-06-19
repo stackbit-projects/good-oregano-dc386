@@ -16,9 +16,13 @@ sections:
     type: section_content
     title: About
     content: >
-      In here, I'll document and share projects, updates about the,  diagnose me
-      game development process, and  a bit of my experience being an avid
-      developer and a new dad
+      Here, I'll document and share interesting projects, updates about the, 
+      "diagnose me" game development process, and a bit of my experience being
+      an avid developer and a gamer.
+
+
+      I'll also, occasionally, remind the internet that I'm a **very **new & a
+      happy dad
     actions:
       - label: Contact Me
         url: /contact
