@@ -372,7 +372,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-      - type: string
+      - type: enum
         name: category
         label: Category
   section:
