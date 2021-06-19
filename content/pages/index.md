@@ -10,7 +10,8 @@ sections:
 
 
       Currently developing cool stuff at Flipkart.com, and also working with my
-      wife on our first Single-player game - Diagnose me.
+      wife on our first Single-player game - [Diagnose
+      me](tzure.com/diagnoseme).
   - section_id: about
     type: section_content
     title: About
