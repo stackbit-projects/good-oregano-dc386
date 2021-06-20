@@ -1,5 +1,5 @@
 ---
-title: 'First post - '
+title: 'Diagnose me: A sim game for the aspiring doctor'
 subtitle: lorem-ipsum
 date: '2021-06-20'
 thumb_img_alt: lorem-ipsum
