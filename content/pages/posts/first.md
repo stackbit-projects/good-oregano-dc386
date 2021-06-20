@@ -24,17 +24,17 @@ content_img_path: /images/diagnoe_me_title2.png
 ---
 ## Hello there!
 
-I'm Tzur, and together with my wife Nofar, we are creating the amazing world of Diagnose Me (WIP title? maybe? we're still working on that!) a sim game that is intended as both a cool learning experience and a fun simulation where you play a physician in his daily life.
+I'm Tzur, and together with my wife Nofar, we are creating the amazing world of Diagnose Me (WIP title? maybe? we're still working on that!) a sim game that is intended as both a cool learning experience and a fun simulation game where you play a physician in his daily life.
 
-You will meet new patients every day, talk with them and hear their story, analyze their symptoms, and research their family history in order to choose the best course of treatment for them - whether they need to be hospitalized and check for physical issues, perhaps they need to be institutionalized, or maybe they are just faking it and should just go home.
+You will meet new patients every day, talk with them and hear their story, analyze their symptoms, and research their family history in order to choose the best course of treatment for them - whether they need to be hospitalized and checked for physical issues, perhaps they need to be institutionalized, or maybe they are just faking it all and should just go home.
 
-After some time, you will always get to know what happened to your patients. Through the institute, you chose to send them to, or In case you've sent them home - because you were sure they were faking it - through other means of communication, such as a newspaper or a radio report.
+After some time, you will always get to know what happened to your patients. Through the institute you chose to send them to, or In case you've sent them home - because you were sure they were faking it - through other means of communication, such as a newspaper or a radio broadcast.
 
-Here, We'll occasionally share updates on our development process -  New features we're working on, our challenges,  the next stuff we're going to do, and much more stuff!
+In this devlog, We'll occasionally share updates on our development process -  New features we're working on, our challenges,  the next stuff we're going to do, and much more!
 
 For now, we'll finish this post with some **state of the game** information.
 
-# State of the game
+# **State of the game**
 
 First, some technical details.
 
@@ -44,7 +44,7 @@ The **UI** is partially Fiverr, and partially some of Tzur's work.
 
 *   **We have a working game loop!** New patients come in, talk with the player (AKA the doctor) and he decides their fate
 
-*   \*\*We have a "Cases" panel! \*\*Old cases are getting documented, including the resolution that the player decided!
+*   **We have a "Cases" panel!** Old cases are getting documented, including the resolution that the player decided!
 
 *   **We have a working main menu!**
 
@@ -54,7 +54,7 @@ what are we working on next?
 
 *   **Nofar** is working on more cases - We can never have enough cases!
 
-*   **Tzur** is working on the player UI - making it more readable and a lot more clear, and also re-designing it (using some much-appriciated freelancer work)
+*   **Tzur** is working on the player UI - making it more readable and a lot more clear, and also re-designing it (using some much-appreciated freelancer work)
 
 *   **Tzur** is working on the character design - currently researching the best option - either the Unity store or hire a freelancer)
 
@@ -67,8 +67,6 @@ The main game window - as you can see, it's a WIP with some basic assets placeho
 The cases panel - still WIP
 
 ![](/\_static/app-assets/images/pleasant-tulip.PNG)
-
-
 
 So, that's it for now! Thank you for getting this far!
 
