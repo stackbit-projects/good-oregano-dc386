@@ -1,6 +1,6 @@
 ---
 title: 'Diagnose me: A sim game for the aspiring doctor'
-subtitle: and those that just like playing games
+subtitle: and for those that just like playing games
 date: '2021-06-20'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
