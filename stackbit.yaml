@@ -331,7 +331,7 @@ models:
       - type: enum
         name: page_style
         label: Style
-        options: [post, page, about]
+        options: [post-image, about-image, about]
         default: post
   post:
     type: page
