@@ -34,11 +34,9 @@ Here, We'll occasionally share updates on our development process -  New feature
 
 For now, we'll finish this post with some **state of the game** information.
 
-
-
 # State of the game
 
-First, some technical details. 
+First, some technical details.
 
 The game is being developed on **Unity** (specifically, 2021.1.7)
 The current **assets** (as you will see in a moment) are basic assets from the Unity store and a lot of placeholders.
@@ -46,7 +44,7 @@ The **UI** is partially Fiverr, and partially some of Tzur's work.
 
 *   **We have a working game loop!** New patients come in, talk with the player (AKA the doctor) and he decides their fate
 
-*   **We have a "Cases" panel! **Old cases are getting documented, including the resolution that the player decided!
+*   \*\*We have a "Cases" panel! \*\*Old cases are getting documented, including the resolution that the player decided!
 
 *   **We have a working main menu!**
 
@@ -60,9 +58,13 @@ what are we working on next?
 
 *   **Tzur** is working on the character design - currently researching the best option - either the Unity store or hire a freelancer)
 
-
-
-Some screenshots - 
+Some screenshots -
 
 The main game window - as you can see, it's a WIP with some basic assets placeholders
+
+![](/\_static/app-assets/images/amazing-spinach.PNG)
+
+
+
+The cases panel - still WIP
 
