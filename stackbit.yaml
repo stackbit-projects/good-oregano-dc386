@@ -332,7 +332,7 @@ models:
         name: page_style
         label: Style
         options: [post-image, about-image, about]
-        default: post
+        default: post-image
   post:
     type: page
     urlPath: '/posts/{slug}'
