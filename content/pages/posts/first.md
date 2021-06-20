@@ -62,11 +62,11 @@ Some screenshots -
 
 The main game window - as you can see, it's a WIP with some basic assets placeholders
 
-![](/\_static/app-assets/images/amazing-spinach.PNG)
+![](/\_static/app-assets/images/elite-kale.PNG)
 
 The cases panel - still WIP
 
-![](/\_static/app-assets/images/pleasant-tulip.PNG)
+
 
 So, that's it for now! Thank you for getting this far!
 
