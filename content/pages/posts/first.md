@@ -4,7 +4,10 @@ subtitle: and for those who just like playing games.
 date: '2021-06-20'
 thumb_img_alt: diagnose me title
 content_img_alt: diagnose me
-excerpt: lorem-ipsum
+excerpt: >-
+  Come and join us in our adventure - the development of the game Diagnose me, a
+  sim game for those of us who always wanted to be a doctor, but never had the
+  chance.
 seo:
   title: ''
   description: ''
