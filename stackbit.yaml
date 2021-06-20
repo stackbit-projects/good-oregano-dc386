@@ -383,7 +383,7 @@ models:
         options: [devlog, diagnoseme_devlog, journal, tech]
       - type: image
         name: content2_img_path
-        label: Image (single post)
+        label: Image2 (single post)
         description: The image shown in the single post.
   section:
     type: object
