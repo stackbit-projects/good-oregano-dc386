@@ -328,6 +328,11 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+      - type: enum
+        name: page_style
+        label: Style
+        options: [post, page, about]
+        default: post
   post:
     type: page
     urlPath: '/posts/{slug}'
