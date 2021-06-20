@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 category: devlog
 layout: post
+thumb_img_path: /images/Capture.PNG
 ---
 ## Lorem ipsum
 
