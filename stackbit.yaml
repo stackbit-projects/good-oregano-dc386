@@ -379,7 +379,7 @@ models:
       - type: enum
         name: page_style
         label: Style
-        options: [devlog, diagnoseme_devlog, journal, tech]
+        options: [post, page, about]
   section:
     type: object
     label: Section
