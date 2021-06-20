@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How I've built an AI using Neural Networks
 subtitle: lorem-ipsum
 date: '2021-06-20'
 thumb_img_alt: lorem-ipsum
