@@ -14,6 +14,7 @@ export default class Page extends React.Component {
         const image = _.get(page, 'img_path');
         const imageAlt = _.get(page, 'img_alt', '');
         const markdownContent = _.get(page, 'markdown_content');
+        const imgClassName = _.get()
 
         return (
             <Layout page={page} config={config}>
