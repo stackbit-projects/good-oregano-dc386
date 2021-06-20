@@ -384,7 +384,7 @@ models:
       - type: image
         name: content2_img_path
         label: Image2 (single post)
-        description: The image shown in the single post.
+        description: second image shown in the single post.
   section:
     type: object
     label: Section
