@@ -1,8 +1,6 @@
 ---
 title: About Me
-subtitle: >-
-  Being a developer is a life long dream of mine. After completing my CS degree,
-  I've worked at IBM, Flipkart.com, and in between on many projects and games.
+subtitle: Some basic information about me!
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
