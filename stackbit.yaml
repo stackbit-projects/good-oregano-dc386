@@ -381,6 +381,10 @@ models:
         name: category
         label: Category
         options: [devlog, diagnoseme_devlog, journal, tech]
+      - type: image
+        name: content_img_path
+        label: Image (single post)
+        description: The image shown in the single post.
   section:
     type: object
     label: Section
