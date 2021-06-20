@@ -21,6 +21,7 @@ category: diagnoseme_devlog
 layout: post
 thumb_img_path: /images/diagnoe_me_title.PNG
 content_img_path: /images/diagnoe_me_title2.png
+content2_img_path: /images/thoughtful-aspen.PNG
 ---
 ## Hello there!
 
