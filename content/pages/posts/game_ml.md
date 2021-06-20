@@ -2,7 +2,7 @@
 title: How I've built an AI that knows how to play games
 subtitle: Using Neural Networks and a Genetic Algorithm
 date: '2021-06-20'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: AI
 content_img_alt: lorem-ipsum
 excerpt: Using Neural Networks and a Genetic Algorithm
 seo:
