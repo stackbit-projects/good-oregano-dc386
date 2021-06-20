@@ -384,7 +384,7 @@ models:
       - type: enum
         name: page_style
         label: Style
-        options: [post, page, about]
+        options: [post-image, about-image, about]
   section:
     type: object
     label: Section
