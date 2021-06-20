@@ -30,7 +30,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
-page_style: post-image
+page_style: about-image
 ---
 I'm a Software and Game developer, an avid gamer, and a fresh Dad.
 
