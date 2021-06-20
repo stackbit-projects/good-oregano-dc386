@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Some basic information about me!
-img_path: /images/violet-saturn.png
+img_path: /images/Tzur3.png
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
