@@ -376,6 +376,10 @@ models:
         name: category
         label: Category
         options: [devlog, diagnoseme_devlog, journal, tech]
+      - type: enum
+        name: page_style
+        label: Style
+        options: [devlog, diagnoseme_devlog, journal, tech]
   section:
     type: object
     label: Section
