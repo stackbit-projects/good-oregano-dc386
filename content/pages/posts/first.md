@@ -1,5 +1,5 @@
 ---
-title: 'Diagnose me: A sim game for the aspiring doctor'
+title: 'Diagnose Me Devlog 1: A sim game for the aspiring doctor'
 subtitle: and for those who just like playing games.
 date: '2021-06-20'
 thumb_img_alt: diagnose me title
