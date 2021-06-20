@@ -1,6 +1,6 @@
 ---
 title: 'Diagnose me: A sim game for the aspiring doctor'
-subtitle: 'or, the '
+subtitle: 'or, '
 date: '2021-06-20'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
