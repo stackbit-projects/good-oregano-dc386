@@ -462,7 +462,7 @@ models:
       - type: enum
         name: page_style
         label: Style
-        options: [devlog, diagnoseme_devlog, journal, tech, all]
+        options: [post, page, about]
         default: all
   section_form:
     type: object
