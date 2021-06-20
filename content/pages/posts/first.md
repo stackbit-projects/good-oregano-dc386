@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 category: diagnoseme_devlog
 layout: post
+thumb_img_path: /images/4.jpg
 ---
 ## Lorem ipsum
 
