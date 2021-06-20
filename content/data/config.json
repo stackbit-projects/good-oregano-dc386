@@ -25,7 +25,7 @@
                 "type": "action"
             },
             {
-                "label": "Blog",
+                "label": "devlog",
                 "url": "/blog/",
                 "style": "link"
             },
