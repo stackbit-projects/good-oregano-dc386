@@ -459,11 +459,6 @@ models:
         label: Category
         options: [devlog, diagnoseme_devlog, journal, tech, all]
         default: all
-      - type: enum
-        name: page_style
-        label: Style
-        options: [post, page, about]
-        default: post
   section_form:
     type: object
     label: Form Section
