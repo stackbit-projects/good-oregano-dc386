@@ -14,6 +14,7 @@ seo:
 category: devlog
 layout: post
 thumb_img_path: /images/Capture.PNG
+content_img_path: /images/2.PNG
 ---
 ## Lorem ipsum
 
