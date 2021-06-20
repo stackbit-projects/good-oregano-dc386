@@ -463,7 +463,7 @@ models:
         name: page_style
         label: Style
         options: [post, page, about]
-        default: all
+        default: post
   section_form:
     type: object
     label: Form Section
