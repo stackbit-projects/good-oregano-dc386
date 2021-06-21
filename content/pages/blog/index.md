@@ -2,7 +2,7 @@
 title: Devlog
 seo:
   title: Tzur's Devlog
-  description: This is the blog page
+  description: Tzur's Devlog
   extra:
     - name: 'og:type'
       value: website
