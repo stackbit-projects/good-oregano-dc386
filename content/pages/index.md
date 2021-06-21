@@ -12,6 +12,15 @@ sections:
       Currently developing amazing stuff at Flipkart.com, and also working with
       my wife on our first Single-player game - [Diagnose
       me](tzure.com/diagnoseme).
+  - section_id: recent-posts
+    type: section_posts
+    title: Recent Posts
+    posts_number: 4
+    actions:
+      - label: View Blog
+        url: blog/index.html
+        style: button
+    category: all
   - section_id: about
     type: section_content
     title: About
@@ -27,15 +36,6 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-  - section_id: recent-posts
-    type: section_posts
-    title: Recent Posts
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
-    category: all
 seo:
   title: Tzure E
   description: A Software & Game developer
