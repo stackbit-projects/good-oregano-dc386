@@ -37,7 +37,7 @@ sections:
         style: button
     category: all
 seo:
-  title: Stackbit Fresh Theme
+  title: Tzure E
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
