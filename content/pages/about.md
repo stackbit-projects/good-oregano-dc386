@@ -34,12 +34,11 @@ page_style: about-image
 ---
 I'm a Software and Game developer, an avid gamer, and a fresh Dad.
 
-My professional experience consists of 4.5 years at IBM as a software developer, and now almost 2 years as a developer at Flipkart.com
+My professional experience consists of 4.5 years at IBM as a software developer, and now almost 2 years as a software  developer at Flipkart.com
 
-Since being a developer was a lifelong dream of mine, during and after completing my CS degree, I've worked on many cool projects and games, one them being a fun 2D platformer where I've used it to propose to my girlfriend (which is now my wife!)
+Since being a developer was always a hobby of mine, during and after completing my CS degree, I've worked on many cool projects and games, one of them being a fun 2D platformer where I've used it to propose to my girlfriend (which is now my wife!)
 
 I love building new things and developing platforms and games from scratch, I have touched many software development concepts, combined game development with Machine learning, and did many more cool things.
-
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
 
