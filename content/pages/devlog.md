@@ -3,7 +3,7 @@ title: Tzur's Devlog
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    posts_number: 0
+    posts_number: 6
     actions: []
     category: all
     type: section_posts
