@@ -37,8 +37,8 @@ sections:
       experience being an avid developer and a gamer.
 
 
-      I'll also, occasionally, remind the internet that I'm a \*\*very \*\*new &
-      a happy dad
+      I'll also, occasionally, remind the internet that I'm a **very** new & a
+      happy dad
     actions:
       - label: Contact Me
         url: /contact
