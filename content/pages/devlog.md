@@ -5,7 +5,7 @@ sections:
   - section_id: lorem-ipsum
     posts_number: 6
     actions: []
-    category: all
+    category: devlog
     type: section_posts
     title: recent posts
 seo:
