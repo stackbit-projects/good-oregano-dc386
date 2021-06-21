@@ -9,7 +9,7 @@ sections:
     type: section_posts
     title: recent posts
 seo:
-  title: ''
+  title: Devlog
   description: ''
   robots: []
   extra: []
