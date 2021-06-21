@@ -1,5 +1,5 @@
 ---
-title: Tzur E
+title: Tzur's Devlog
 hide_title: true
 excerpt: lorem-ipsum
 sections: []
