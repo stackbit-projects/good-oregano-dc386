@@ -10,7 +10,7 @@ sections:
     title: recent posts
 seo:
   title: Devlog
-  description: ''
+  description: The devlog containing various projects and other cool posts
   robots: []
   extra: []
   type: stackbit_page_meta
