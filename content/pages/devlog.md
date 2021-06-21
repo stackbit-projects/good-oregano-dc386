@@ -7,6 +7,7 @@ sections:
     actions: []
     category: all
     type: section_posts
+    title: recent posts
 seo:
   title: ''
   description: ''
