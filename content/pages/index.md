@@ -20,7 +20,7 @@ sections:
       - label: View Devlog
         url: blog/index.html
         style: button
-      - label: lorem-ipsum
+      - label: View Diagnose Me Devlog
         url: '#'
         style: link
         icon_class: dev
