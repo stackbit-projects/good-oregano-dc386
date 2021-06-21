@@ -22,7 +22,7 @@ sections:
         style: button
       - label: View Diagnose Me Devlog
         url: '#'
-        style: icon
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false
