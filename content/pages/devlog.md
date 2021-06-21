@@ -1,6 +1,6 @@
 ---
 title: Tzur's Devlog
-hide_title: true
+hide_title: false
 sections:
   - section_id: lorem-ipsum
     posts_number: 6
