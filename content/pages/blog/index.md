@@ -1,5 +1,5 @@
 ---
-title: DEהךםע
+title: Devlog
 seo:
   title: Blog
   description: This is the blog page
