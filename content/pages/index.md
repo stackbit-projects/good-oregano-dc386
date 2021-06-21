@@ -38,7 +38,7 @@ sections:
     category: all
 seo:
   title: Tzure E
-  description: The preview of the Fresh theme
+  description: A Software & Game developer
   extra:
     - name: 'og:type'
       value: website
