@@ -21,7 +21,7 @@ sections:
         url: blog/index.html
         style: button
       - label: View Diagnose Me Devlog
-        url: '#'
+        url: /diagnoseme
         style: button
         icon_class: dev
         new_window: false
