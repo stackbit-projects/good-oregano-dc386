@@ -20,6 +20,13 @@ sections:
       - label: View Devlog
         url: blog/index.html
         style: button
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     category: all
   - section_id: about
     type: section_content
