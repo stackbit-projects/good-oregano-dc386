@@ -399,7 +399,8 @@ models:
         type: list
         label: Sections
         items:
-          type: text
+          type: model
+          models: []
   section:
     type: object
     label: Section
