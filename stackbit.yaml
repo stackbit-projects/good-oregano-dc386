@@ -400,7 +400,8 @@ models:
         label: Sections
         items:
           type: model
-          models: []
+          models:
+            - section_content
   section:
     type: object
     label: Section
