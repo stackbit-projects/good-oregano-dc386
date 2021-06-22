@@ -397,7 +397,7 @@ models:
           - tech
       - name: Sections
         type: list
-        label: ''
+        label: Sections
         items:
           type: string
   section:
