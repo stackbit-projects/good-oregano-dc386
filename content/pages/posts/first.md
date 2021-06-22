@@ -23,6 +23,22 @@ thumb_img_path: /images/diagnoe_me_title.PNG
 content_img_path: /images/diagnoe_me_title2.png
 Sections:
   - lorem-ipsum
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_content
 ---
 ## Hello there!
 
