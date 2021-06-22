@@ -395,7 +395,7 @@ models:
           - diagnoseme_devlog
           - journal
           - tech
-      - name: ''
+      - name: Sections
         type: list
         label: ''
         items:
