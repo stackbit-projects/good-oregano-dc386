@@ -396,7 +396,10 @@ models:
           - journal
           - tech
       - name: ''
-        type: string
+        type: list
+        label: ''
+        items:
+          type: string
   section:
     type: object
     label: Section
