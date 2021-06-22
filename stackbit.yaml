@@ -402,6 +402,7 @@ models:
           type: model
           models:
             - section_content
+            - section_form
   section:
     type: object
     label: Section
