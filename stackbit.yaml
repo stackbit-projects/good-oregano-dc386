@@ -399,7 +399,10 @@ models:
         type: list
         label: Sections
         items:
-          type: image
+          type: model
+          models:
+            - section_content
+            - section_form
   section:
     type: object
     label: Section
