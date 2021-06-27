@@ -16,4 +16,4 @@ layout: post
 thumb_img_path: /images/Capture.PNG
 content_img_path: /images/2.PNG
 ---
-### In case you don't want to read, there's also a Youtube [video](https://youtu.be/GycM61m3Em4) 
+### In case you don't want to read a post, there's also a Youtube [video](https://youtu.be/GycM61m3Em4)
