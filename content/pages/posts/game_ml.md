@@ -17,3 +17,23 @@ thumb_img_path: /images/Capture.PNG
 content_img_path: /images/2.PNG
 ---
 ### In case you don't want to read a post, there's also a Youtube [video](https://youtu.be/GycM61m3Em4)
+
+
+
+# Basic stuff to know
+
+Before we dive in, I want to introduce an agenda. A way for me to separate all of the next posts and help you understand each part of the work I did.
+
+So this entire series of posts will be divided into several parts.
+
+*   What is machine learning - I won't get into too much detail, just enough so you'll have the basic knowledge on what is going on
+
+*   What are Neural Networks
+
+*   Evolution - and the connection to the ML learning process
+
+*   My AI's basic idea
+
+*   The learning process
+
+*   The final Neural Network
