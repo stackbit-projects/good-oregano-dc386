@@ -17,9 +17,6 @@ sections:
     title: Recent Posts across all devlogs
     posts_number: 4
     actions:
-      - label: View Devlog
-        url: blog/index.html
-        style: button
       - label: View Diagnose Me Devlog
         url: /diagnoseme
         style: button
@@ -27,6 +24,9 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: View Devlog
+        url: blog/index.html
+        style: button
     category: all
   - section_id: about
     type: section_content
