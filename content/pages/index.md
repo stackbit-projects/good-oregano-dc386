@@ -14,7 +14,7 @@ sections:
       me](tzure.com/diagnoseme).
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: Recent Posts across all devlogs
     posts_number: 4
     actions:
       - label: View Devlog
