@@ -1,5 +1,5 @@
 ---
-title: How I've built an AI that knows how to play games
+title: How I've built an AI that knows how to play games - Part I
 subtitle: Using Neural Networks and a Genetic Algorithm
 date: '2021-06-20'
 thumb_img_alt: AI
