@@ -13,8 +13,10 @@ body {
   }
 }
 
-.profile {
-     .avater {
-        object-fit: contain
+@media only screen {
+    .profile {
+        .avater {
+            object-fit: contain
+        }
     }
 }
