@@ -52,7 +52,7 @@
     box-shadow: 0 0 1px 7px rgba(_palette(accent),.2);
     border-radius: 100%;
     display: block;
-    -o-object-fit: cover;
+    -o-object-fit: contain;
     object-fit: cover;
     height: 45px;
     width: 45px;
