@@ -80,11 +80,11 @@ Some screenshots -
 
 The main game window - as you can see, it's a WIP with some basic assets placeholders
 
-![](/\/images/elite-kale.PNG)
+![](/images/elite-kale.PNG)
 
 The cases panel - still WIP
 
-![](/\/images/curious-sparrow.PNG)
+![](/images/curious-sparrow.PNG)
 
 So, that's it for now! Thank you for getting this far!
 
