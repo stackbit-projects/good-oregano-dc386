@@ -80,7 +80,7 @@ Some screenshots -
 
 The main game window - as you can see, it's a WIP with some basic assets placeholders
 
-![](/\_static/app-assets/images/elite-kale.PNG)
+![](/\/images/elite-kale.PNG)
 
 The cases panel - still WIP
 
