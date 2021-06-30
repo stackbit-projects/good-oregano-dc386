@@ -119,12 +119,16 @@ So, that's all good and well, but I "minimized" the error in a different way.
 
 Basically, my neural network’s learning process required me to “**evolve”** the network each time, in order to reach its full potential. I'll divide it to small steps, so it would be clear.
 
-### Step 1 
+### Step 1
 
 Create several ANNs with weights and biases, and choose their input at random, letting them compute whatever result.
 
 ![](https://lh3.googleusercontent.com/MuY8RrRp-DJLdvAJjtRfOtB1BkGLtPTXyOjdOCt5\_vkuzrRmYcOL-K-fWH3HN7h60Et2j2Bc2UZsOzKrMLUHV9Fc_td591PI8GWPaGri-VPi3FqZdlv4hgoWYjdp8TEha0YMR8FMwrM)
 
+### Step 2
+
+After they were all done computing their result, rank them, using a **fitness function. **The fitness dictated who was the “best” ANN out of all of those ANNs.
+
+![](https://lh4.googleusercontent.com/ohOzJrcOzngLMghwLJAiVnwqDfXm80ZXpXjzh4hOIiJXffKwbepwusHOtaj21tx8PPiq-2p4dSPGMjXsKt8mNh_pOOjPeVvSwT5cOXK4ledc-KCmtfsC0gdpm7evLh6\_p60TlsjviLo)
 
 
-***
