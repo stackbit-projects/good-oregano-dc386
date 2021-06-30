@@ -106,10 +106,12 @@ Tan mice are more visible to predatory birds than black mice. Thus, Tan mice are
 
 # Combining Evolution with Neural Networks
 
-## How do Neural Networks learn?
-
 So, what does Evolution have to do with Neural Networks? Well, as I said before, an ANN needs to learn in order to evolve. How does a neural network learn?
 This is a big subject, so let's talk a bit about the "classic" way of neural network learning, and then talk about what I did here.
+
+## How do Neural Networks learn?
+
+
 
 So, one of the ways that neural networks learn, is by something called [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). It is short for "backward propagation of errors," which is an algorithm using [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent). I won't get into too much detail, but in short, by using an error function (something like [mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error)) we calculate the gradient of the **error** function(local minimum) with respect to the neural network's weights. We want to **minimize** that error, so the "backward" part of the name comes from the fact that the calculation of the gradient proceeds backward through the network, with the gradient of the final layer of weights being calculated first and the gradient of the first layer of weights being calculated last.
 
