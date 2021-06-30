@@ -64,11 +64,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum s
 
 ## Unordered Lists
 
-*   Donec non tortor in arcu mollis feugiat
+*   Donec non tortor in arcu mollis feugia
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
 
 <!---->
 
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
 *   Donec id eros eget quam aliquam gravida
 *   Vivamus convallis urna id felis
 *   Nulla porta tempus sapien
