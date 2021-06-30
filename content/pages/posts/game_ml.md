@@ -26,17 +26,19 @@ I sat down and started reading up on Neural Networks and their usage in machine 
 
 Before we dive in - a short agenda for the next few posts on this subject, so this entire series of posts will be divided into several parts.
 
-*   What is machine learning - I won't get into too much detail, just enough so you'll have the basic knowledge of what is going on
+*   **What is machine learning** - I won't get into too much detail, just enough so you'll have the basic knowledge of what is going on
 
-*   What are Neural Networks
+*   **What are Neural Networks**
 
-*   Evolution - the connection to the ML learning process
+<!---->
 
-*   My AI's basic idea
+*   **Evolution **- the connection to the ML learning process
 
-*   The learning process
+*   **My AI's basic idea**
 
-*   The final Neural Network
+*   **The learning process**
+
+*   **The final Neural Network**
 
 ***
 
