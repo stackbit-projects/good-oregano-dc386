@@ -139,7 +139,7 @@ The best one was the 95 score
 
 **Combine Evolution** - Since the ANN with a score of 95 was the best, I simply chose it as an example for the rest. I deleted half of the created ANN (those with the lowest score), and \*\*copied \*\*the best ANN, instead of the half I deleted.
 
-![](/\_static/app-assets/images/4.PNG)
+![](/images/4.PNG)
 
 And now copy
 
