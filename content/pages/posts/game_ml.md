@@ -42,6 +42,6 @@ Before we dive in - a short agenda for the next few posts on this subject, so th
 
 # What is machine learning?
 
-In short, Machine learning (ML) is the study of computer algorithms that improve automatically through experience, without being explicitly programmed. The process of learning begins with observations or data, such as examples, **direct experience**, or instruction, in order to look for \*\*patterns \*\*in the data and make better decisions in the future.
+In short, Machine learning (ML) is the study of computer algorithms that improve automatically through experience, without being explicitly programmed. The process of learning begins with observations or data, such as examples, **direct experience**, or instruction, in order to look for \*\*patterns\*\* in the data and make better decisions in the future.
 
 The primary aim is to allow a "machine" to **learn automatically** without human intervention or assistance and adjust actions accordingly.
