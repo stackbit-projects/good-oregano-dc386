@@ -30,7 +30,9 @@ Before we dive in - a short agenda for the next few posts on this subject, so th
 
 *   **What are Neural Networks**
 
-*   **Evolution** - the connection to the ML learning process
+*   **Evolution** - Survival of the fittest
+
+*   **Combining Evolution with Neural Networks**
 
 *   **My AI's basic idea**
 
@@ -95,10 +97,18 @@ So, we now know what are Artificial Neural Networks, and we can talk a bit about
 
 # Evolution - Survival of the fittest
 
-So, what is Survival of the fittest? in short, It is a phrase that originated from Darwinian evolutionary theory as a way of describing the mechanism of Natural Selection. Natural Selection is a key mechanism of evolution, it is the process where organisms with favorable **traits **are more likely to reproduce and flourish. In other words, the organisms with the best **Fitness**(the most fitted) are more likely to flourish.
+So, what is Survival of the fittest? in short, It is a phrase that originated from Darwinian evolutionary theory as a way of describing the mechanism of Natural Selection. Natural Selection is a key mechanism of evolution, it is the process where organisms with favorable **traits** are more likely to reproduce and flourish. In other words, the organisms with the best **Fitness**(the most fitted) are more likely to flourish.
 
 for instance, a population of mice has moved into a new area, where the rocks are very dark. Due to natural genetic variation, some mice are black, while others are tan.
-Tan mice are more visible to predatory birds 
+Tan mice are more visible to predatory birds than black mice. Thus, Tan mice are eaten at a higher frequency than black mice.  of course, only surviving mice reach reproducibility. Because black mice have a higher chance of surviving, the next generation contains **more** black mice than the previous generation, Thus examining the rule of **Survival of the fittest.**
+
+****
+
+# Combining Evolution with Neural Networks
+
+So, what does Evolution have to do with Neural Networks? Well, as I said before, an ANN needs to learn in order to evolve. How does a neural network learn?
+This is a big subject, so let's talk a bit about the "classic" way of neural network learning, and then talk about what I did here.
 
 
 
+****
