@@ -24,14 +24,21 @@ Before we dive in, I want to introduce an agenda. A way for me to separate all o
 
 So this entire series of posts will be divided into several parts.
 
-*   **What is machine learning - I won't get into too much detail, just enough so you'll have the basic knowledge on what is going on**
+*   **What is machine learning **- I won't get into too much detail, just enough so you'll have the basic knowledge of what is going on
 
 *   **What are Neural Networks**
 
-*   **Evolution - and the connection to the ML learning process**
+*   **Evolution** - the connection to the ML learning process
 
 *   **My AI's basic idea**
 
 *   **The learning process**
 
 *   **The final Neural Network**
+
+****
+
+# What is machine learning?
+
+
+
