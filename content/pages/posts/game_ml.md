@@ -20,11 +20,9 @@ content_img_path: /images/2.PNG
 
 # Basic stuff to know
 
-Before we dive in, I want to introduce an agenda. A way for me to separate all of the next posts and help you understand each part of the work I did.
+Before we dive in - a short agenda for the next few posts on this subject: So this entire series of posts will be divided into several parts.
 
-So this entire series of posts will be divided into several parts.
-
-*   **What is machine learning **- I won't get into too much detail, just enough so you'll have the basic knowledge of what is going on
+*   **What is machine learning** - I won't get into too much detail, just enough so you'll have the basic knowledge of what is going on
 
 *   **What are Neural Networks**
 
@@ -36,9 +34,6 @@ So this entire series of posts will be divided into several parts.
 
 *   **The final Neural Network**
 
-****
+***
 
 # What is machine learning?
-
-
-
