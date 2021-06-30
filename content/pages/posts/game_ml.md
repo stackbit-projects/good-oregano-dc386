@@ -30,9 +30,7 @@ Before we dive in - a short agenda for the next few posts on this subject, so th
 
 *   **What are Neural Networks**
 
-<!---->
-
-*   **Evolution **- the connection to the ML learning process
+*   **Evolution** - the connection to the ML learning process
 
 *   **My AI's basic idea**
 
