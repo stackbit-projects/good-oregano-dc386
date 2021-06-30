@@ -111,8 +111,20 @@ This is a big subject, so let's talk a bit about the "classic" way of neural net
 
 ## How do Neural Networks learn?
 
-
-
 So, one of the ways that neural networks learn, is by something called [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). It is short for "backward propagation of errors," which is an algorithm using [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent). I won't get into too much detail, but in short, by using an error function (something like [mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error)) we calculate the gradient of the **error** function(local minimum) with respect to the neural network's weights. We want to **minimize** that error, so the "backward" part of the name comes from the fact that the calculation of the gradient proceeds backward through the network, with the gradient of the final layer of weights being calculated first and the gradient of the first layer of weights being calculated last.
+
+So, that's all good and well, but I "minimized" the error in a different way.
+
+## How did my Neural Network learn?
+
+Basically, my neural network’s learning process required me to “**evolve”** the network each time, in order to reach its full potential. I'll divide it to small steps, so it would be clear.
+
+### Step 1 
+
+Create several ANNs with weights and biases, and choose their input at random, letting them compute whatever result.
+
+![](https://lh3.googleusercontent.com/MuY8RrRp-DJLdvAJjtRfOtB1BkGLtPTXyOjdOCt5\_vkuzrRmYcOL-K-fWH3HN7h60Et2j2Bc2UZsOzKrMLUHV9Fc_td591PI8GWPaGri-VPi3FqZdlv4hgoWYjdp8TEha0YMR8FMwrM)
+
+
 
 ***
