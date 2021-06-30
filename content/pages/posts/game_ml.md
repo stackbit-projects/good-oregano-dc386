@@ -90,3 +90,10 @@ Without going into too much detail, the activation function of a \*\*node \*\*
 the Hyperbolic tangent ([tanh](https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent)) activation function:
 
 ![](https://lh3.googleusercontent.com/gf4SvrmE-Vs\_6yOhlhDMv_Y7vvLgOv3lu5PO-e8IJLHQ5OIJ9EARt3CjYIG7Eo7SmJXi026mlmbzuq6KrgLI0w3LLdKin1wvGSEZGvQpRUHesHrmNpGyJip5vryWAfluQIAnxxiwcVY)
+
+
+
+So, we now know what are Artificial Neural Networks, and we can talk a bit about Survival of the fittest and how it all connects.
+
+# Evolution - Survival of the fittest
+
