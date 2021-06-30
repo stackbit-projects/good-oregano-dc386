@@ -22,7 +22,7 @@ content_img_path: /images/2.PNG
 
 Before we dive in - a short agenda for the next few posts on this subject: So this entire series of posts will be divided into several parts.
 
-*   **What is machine learning** - I won't get into too much detail, just enough so you'll have the basic knowledge of what is going on
+*   **\<h1>What is machine learning**\</h1> - I won't get into too much detail, just enough so you'll have the basic knowledge of what is going on
 
 *   **What are Neural Networks**
 
