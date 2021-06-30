@@ -59,3 +59,7 @@ using various ML algorithms. There are a lot, but here are a few:
 
 and many more.
 
+So, now that we know a bit about what is machine learning (and if not, there is a ton of knowledge online) - I prefer not to get into too much theory and practice behind it, I just want you to have a sense of what I did here.  
+So, what did I do? I created a "machine"(let's call it... a Brain?) that knows how to perform some tasks, by learning from direct experience.
+
+# What are Neural Networks&#xA;&#xA;
