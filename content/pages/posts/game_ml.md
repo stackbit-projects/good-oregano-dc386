@@ -59,11 +59,9 @@ using various ML algorithms. There are a lot, but here are a few:
 
 and many more.
 
-So, now that we know a bit about what is machine learning (and if not, there is a ton of knowledge online) - I prefer not to get into too much theory and practice behind it, I just want you to have a sense of what I did here. 
+So, now that we know a bit about what is machine learning (and if not, there is a ton of knowledge online) - I prefer not to get into too much theory and practice behind it, I just want you to have a sense of what I did here.
 
 So, what did I do? I created a "machine"(let's call it... a Brain?) that knows how to perform some tasks, by learning from direct experience.
-
-
 
 # What are Artificial Neural Networks?
 
@@ -74,8 +72,19 @@ For example, in image recognition(Image classifier), they might learn to identif
 
 An ANN is based on a collection of connected units (nodes) called **artificial neurons**, which loosely model the neurons in a biological brain. Each connection, like the synapse in a biological brain, can transmit a “signal” to other neurons. An artificial neuron that receives a signal, processes it, and can signal neurons connected to it.
 
+an artificial neural network:
+
 ![](/\_static/app-assets/images/512px-Multi-Layer_Neural_Network-Vector-Blank.svg.png)
-an artificial neural network
+
+
+Each synapse (connection) has a **weight, **that weight represents its relative importance.
+Some neurons have a **Bias **value, which is a constant value we add to signals passing through it.
+The value of each neuron is updated using something called an **Activation Function.**
+This Activation function receives inputs and weights and passes on a value to the next neuron.
+
+
+![](https://lh5.googleusercontent.com/zV269kpv4z8b4xFY5Gmfs9h5SGDR66dD7X3Bgus39OXUFjbW1fIOuLKBVDD0QvQPw8whMBEfvjyHhyyuR-00Wvd-dgYdzoW6-XFijk2dl5YiA\_1TavGtVy97x5u5xVuqXFWD4HACgXg)
+
 
 
 
