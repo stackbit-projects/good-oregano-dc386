@@ -59,7 +59,23 @@ using various ML algorithms. There are a lot, but here are a few:
 
 and many more.
 
-So, now that we know a bit about what is machine learning (and if not, there is a ton of knowledge online) - I prefer not to get into too much theory and practice behind it, I just want you to have a sense of what I did here.  
+So, now that we know a bit about what is machine learning (and if not, there is a ton of knowledge online) - I prefer not to get into too much theory and practice behind it, I just want you to have a sense of what I did here. 
+
 So, what did I do? I created a "machine"(let's call it... a Brain?) that knows how to perform some tasks, by learning from direct experience.
 
-# What are Neural Networks&#xA;&#xA;
+
+
+# What are Artificial Neural Networks?
+
+They are computing systems vaguely inspired by the **biological neural networks** that constitute our brains. Such systems "learn" to perform tasks by considering **examples**, generally without being programmed with task-specific rules
+For example, in image recognition(Image classifier), they might learn to identify images that contain cats by analyzing example images that have been manually labeled as "cat" or "no cat" and using the results to identify cats in other images
+
+## The structure of Artificial Neural Networks
+
+An ANN is based on a collection of connected units (nodes) called **artificial neurons**, which loosely model the neurons in a biological brain. Each connection, like the synapse in a biological brain, can transmit a “signal” to other neurons. An artificial neuron that receives a signal, processes it, and can signal neurons connected to it.
+
+![](/\_static/app-assets/images/512px-Multi-Layer_Neural_Network-Vector-Blank.svg.png)
+an artificial neural network
+
+
+
