@@ -85,15 +85,20 @@ This Activation function receives inputs and weights and passes on a value to th
 
 ## Activation Function
 
-Without going into too much detail, the activation function of a \*\*node \*\*defines the output of that node given an input or set of inputs. So, in our case, the activation function receives the Neuron's data, and decides what should be the “signal” to the Next layer. The last layer (output) passes the activation function's “signal” to the output.
+Without going into too much detail, the activation function of a \*\*node \*\*defines the output of that node given an input or set of inputs. So, in our case, the activation function receives the Neuron's data and decides what should be the “signal” to the Next layer. The last layer (output) passes the activation function's “signal” to the output.
 
 the Hyperbolic tangent ([tanh](https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent)) activation function:
 
 ![](https://lh3.googleusercontent.com/gf4SvrmE-Vs\_6yOhlhDMv_Y7vvLgOv3lu5PO-e8IJLHQ5OIJ9EARt3CjYIG7Eo7SmJXi026mlmbzuq6KrgLI0w3LLdKin1wvGSEZGvQpRUHesHrmNpGyJip5vryWAfluQIAnxxiwcVY)
 
-
-
 So, we now know what are Artificial Neural Networks, and we can talk a bit about Survival of the fittest and how it all connects.
 
 # Evolution - Survival of the fittest
+
+So, what is Survival of the fittest? in short, It is a phrase that originated from Darwinian evolutionary theory as a way of describing the mechanism of Natural Selection. Natural Selection is a key mechanism of evolution, it is the process where organisms with favorable **traits **are more likely to reproduce and flourish. In other words, the organisms with the best **Fitness**(the most fitted) are more likely to flourish.
+
+for instance, a population of mice has moved into a new area, where the rocks are very dark. Due to natural genetic variation, some mice are black, while others are tan.
+Tan mice are more visible to predatory birds 
+
+
 
