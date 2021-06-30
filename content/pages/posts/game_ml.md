@@ -133,7 +133,7 @@ After they were all done computing their result, rank them, using a **fitness fu
 
 The best one was the 95 score
 
-![](/\_static/app-assets/images/3.PNG)
+![](/images/3.PNG)
 
 ### Step 3
 
