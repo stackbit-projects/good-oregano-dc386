@@ -130,3 +130,8 @@ Create several ANNs with weights and biases, and choose their input at random, l
 After they were all done computing their result, rank them, using a **fitness function**. The fitness dictated who was the “best” ANN out of all of those ANNs.
 
 ![](https://lh4.googleusercontent.com/ohOzJrcOzngLMghwLJAiVnwqDfXm80ZXpXjzh4hOIiJXffKwbepwusHOtaj21tx8PPiq-2p4dSPGMjXsKt8mNh_pOOjPeVvSwT5cOXK4ledc-KCmtfsC0gdpm7evLh6\_p60TlsjviLo)
+
+The best one was the 95 score
+
+
+![](/\_static/app-assets/images/3.PNG)
