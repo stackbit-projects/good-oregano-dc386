@@ -45,3 +45,17 @@ Before we dive in - a short agenda for the next few posts on this subject, so th
 In short, Machine learning (ML) is the study of computer algorithms that improve automatically through experience, without being explicitly programmed. The process of learning begins with observations or data, such as examples, **direct experience**, or instruction, in order to look for **patterns** in the data and make better decisions in the future.
 
 The primary aim is to allow a "machine" to **learn automatically** without human intervention or assistance and adjust actions accordingly.
+
+So, how does one achieves this learning process?
+using various ML algorithms. There are a lot, but here are a few:
+
+*   [KNN ](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)- K nearest neighbors
+
+*   [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine)
+
+*   [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+
+*   [**Artificial Neural Networks**](https://en.wikipedia.org/wiki/Artificial_neural_network) 
+
+and many more.
+
