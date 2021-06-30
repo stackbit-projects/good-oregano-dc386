@@ -137,9 +137,7 @@ The best one was the 95 score
 
 ### Step 3
 
-**Combine Evolution** - Since the ANN with a score of 95 was the best, I simply chose it as an example for the rest. I deleted half of the created ANN (those with the lowest score), and **copied **the best ANN, instead of the half I deleted.
-
-
+**Combine Evolution** - Since the ANN with a score of 95 was the best, I simply chose it as an example for the rest. I deleted half of the created ANN (those with the lowest score), and \*\*copied \*\*the best ANN, instead of the half I deleted.
 
 ![](/\_static/app-assets/images/4.PNG)
 
@@ -147,3 +145,18 @@ And now copy
 
 ![](/\_static/app-assets/images/5.PNG)
 
+
+
+I “mutated” something in each of the new networks by a 10% chance. Meaning, that for each new network I copied, there was a slight chance of it being a bit “different” from the “father” it was copied from. The mutation only affected the weights and biases of each node.
+
+After the copy and mutation, I gave them new random input and again chose the best. This process continues until I reach the most satisfying score/state. In the end, I simply take the best Neural Network.
+
+
+
+# So, what’s that have to do with an AI that knows how to play games?
+
+Join in for part II, and everything will be more clear.
+
+That's it for today, thanks for reading this far!
+
+Tzur
