@@ -133,5 +133,17 @@ After they were all done computing their result, rank them, using a **fitness fu
 
 The best one was the 95 score
 
-
 ![](/\_static/app-assets/images/3.PNG)
+
+### Step 3
+
+**Combine Evolution** - Since the ANN with a score of 95 was the best, I simply chose it as an example for the rest. I deleted half of the created ANN (those with the lowest score), and **copied **the best ANN, instead of the half I deleted.
+
+
+
+![](/\_static/app-assets/images/4.PNG)
+
+And now copy
+
+![](/\_static/app-assets/images/5.PNG)
+
