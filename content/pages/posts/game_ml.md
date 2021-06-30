@@ -76,15 +76,24 @@ an artificial neural network:
 
 ![](/\_static/app-assets/images/512px-Multi-Layer_Neural_Network-Vector-Blank.svg.png)
 
-
 Each synapse (connection) has a **weight, **that weight represents its relative importance.
-Some neurons have a **Bias **value, which is a constant value we add to signals passing through it.
+Some neurons have a \*\*Bias \*\*value, which is a constant value we add to signals passing through it.
 The value of each neuron is updated using something called an **Activation Function.**
 This Activation function receives inputs and weights and passes on a value to the next neuron.
+
 
 
 ![](https://lh5.googleusercontent.com/zV269kpv4z8b4xFY5Gmfs9h5SGDR66dD7X3Bgus39OXUFjbW1fIOuLKBVDD0QvQPw8whMBEfvjyHhyyuR-00Wvd-dgYdzoW6-XFijk2dl5YiA\_1TavGtVy97x5u5xVuqXFWD4HACgXg)
 
 
+
+## Activation Function
+
+Without going into too much detail, the activation function of a **node **defines the output of that node given an input or set of inputs. So, in our case, the activation function receives the Neuron's data, and decides what should be the “signal” to the Next layer. The last layer (output) passes the activation function's “signal” to the output.
+
+the Hyperbolic tangent ([tanh](https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent)) activation function:
+
+
+![](https://lh3.googleusercontent.com/gf4SvrmE-Vs\_6yOhlhDMv_Y7vvLgOv3lu5PO-e8IJLHQ5OIJ9EARt3CjYIG7Eo7SmJXi026mlmbzuq6KrgLI0w3LLdKin1wvGSEZGvQpRUHesHrmNpGyJip5vryWAfluQIAnxxiwcVY)
 
 
