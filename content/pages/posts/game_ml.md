@@ -76,7 +76,7 @@ An ANN is based on a collection of connected units (nodes) called **artificial n
 
 an artificial neural network:
 
-![](/\_static/app-assets/images/512px-Multi-Layer_Neural_Network-Vector-Blank.svg.png)
+![](/images/512px-Multi-Layer_Neural_Network-Vector-Blank.svg.png)
 
 Each synapse (connection) has a \*\*weight, \*\*that weight represents its relative importance.
 Some neurons have a \*\*Bias \*\*value, which is a constant value we add to signals passing through it.
