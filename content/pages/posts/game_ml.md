@@ -7,7 +7,9 @@ content_img_alt: lorem-ipsum
 excerpt: Using Neural Networks and a Genetic Algorithm
 seo:
   title: ''
-  description: ''
+  description: >-
+    How I've built an AI that knows to play games with Neural Networks and a
+    Genetic Evolution algorithm
   robots: []
   extra: []
   type: stackbit_page_meta
