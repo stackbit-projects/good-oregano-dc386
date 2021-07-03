@@ -7,9 +7,6 @@ import { Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
 
 export default class Post extends React.Component {
-    state = {
-        realComments: []
-    };
     slug = ""
     
     componentDidMount() {
