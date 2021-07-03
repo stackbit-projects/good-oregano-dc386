@@ -67,7 +67,7 @@ const Comment = ({ comment, childComments, slug }) => {
   return (
     <CommentBox>
       <SingleComment comment={comment} />
-      {childComments && (
+      {childComments && childComments.map(
         <CommentBox child className="comment-reply">
             <SingleComment comment={child} />
         </CommentBox>
