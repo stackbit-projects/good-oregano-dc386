@@ -49,6 +49,9 @@ const CommentForm = ({ parentId, slug, comments, setComment }) => {
     .catch(err => {
       console.error('error adding comment: ', err)
     })
+
+comments.pu
+    setComment()
     
   }
 
