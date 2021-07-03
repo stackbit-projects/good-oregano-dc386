@@ -37,6 +37,7 @@ const Comments = ({ slug }) => {
                   comment={comment}
                   childComments={childComments}
                   slug={slug}
+                  comments={comments} setComments={setComments}
                 />
               )
             })}
