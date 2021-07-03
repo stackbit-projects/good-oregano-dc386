@@ -99,8 +99,3 @@ Comment.propTypes = {
 }
 
 export default Comment
-
-
-<div>
-   [<span></span>, <div></div>]
-</div>
