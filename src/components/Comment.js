@@ -62,7 +62,7 @@ const SingleComment = ({ comment }) => {
   )
 }
 
-const Comment = ({ comment, childComments, slug, comments, setComments }) => {
+const Comment = ({ comment, childComments, slug, reloadComments }) => {
   const [showReplyBox, setShowReplyBox] = useState(false)
   return (
     <CommentBox>
@@ -81,7 +81,7 @@ const Comment = ({ comment, childComments, slug, comments, setComments }) => {
             >
             Cancel Reply
             </button>
-            <CommentForm parentId={comment.id} slug={slug} reloadComments={reloadComments} setComments={setComments} />
+            <CommentForm parentId={comment.id} slug={slug} reloadComments={reloadComments} />
         </div>
         ) : (
         <button className="btn bare" onClick={() => setShowReplyBox(true)}>
