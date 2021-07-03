@@ -20,7 +20,7 @@ const Comments = ({ comments, slug }) => {
           comments
             .filter(comment => !comment.pId)
             .map(comment => {
-              let child = []
+              let children = []
               //let child
               if (comment.id) {
                 // comments.forEach(element => {
