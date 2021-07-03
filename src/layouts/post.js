@@ -35,7 +35,7 @@ export default class Post extends React.Component {
                         </div>
                     )}
                     {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
-                    <Comments slug={slug} />
+                    /*<Comments slug={slug} */
                     <footer className="post-meta inner-sm">
                         <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                         <span> {category} </span>
