@@ -28,7 +28,7 @@ const Comments = ({ comments, slug }) => {
                 //     children.push(element);
                 //   }
                 // });
-                child = comments.find(c => comment.id === c.pId)
+                children = comments.find(c => comment.id === c.pId)
                 // console.log("original comment: ", comment)
                 console.log("child: ", child)
                 // console.log("All comments: ", comments)
