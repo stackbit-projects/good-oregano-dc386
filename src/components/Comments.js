@@ -25,7 +25,7 @@ const Comments = ({ comments, slug }) => {
               if (comment.id) {
                 // comments.forEach(element => {
                 //   if (element.pId === comment.id){
-                //     child.push(element);
+                //     children.push(element);
                 //   }
                 // });
                 child = comments.find(c => comment.id === c.pId)
