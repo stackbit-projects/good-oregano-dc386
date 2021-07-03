@@ -3,6 +3,7 @@ import PropTypes from "prop-types"
 import Comment from "./Comment"
 import CommentForm from "./CommentForm"
 import styled from "styled-components"
+import {firestore} from "../firebase.js"
 
 const CommentList = styled.div`
   article {
