@@ -13,6 +13,8 @@ const CommentList = styled.div`
 const arr = []
 arr.push()
 
+arr = arr.push();
+
 const Comments = ({ comments, slug }) => {
   return (
     <div>
