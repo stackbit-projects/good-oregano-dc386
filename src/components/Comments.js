@@ -23,6 +23,7 @@ const CommentList = styled.div`
 
 const Comments = ({ slug }) => {
     const comments = useState();
+    useEffect
   return (
     <div>
       <h2>Join the discussion</h2>
