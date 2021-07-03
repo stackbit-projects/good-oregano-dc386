@@ -72,25 +72,23 @@ const Comment = ({ comment, childComments, slug }) => {
             <SingleComment comment={child} />
         </CommentBox>
       )}
-      {(
+    <div>
+        {showReplyBox ? (
         <div>
-          {showReplyBox ? (
-            <div>
-              <button
-                className="btn bare"
-                onClick={() => setShowReplyBox(false)}
-              >
-                Cancel Reply
-              </button>
-              <CommentForm parentId={comment.id} slug={slug} />
-            </div>
-          ) : (
-            <button className="btn bare" onClick={() => setShowReplyBox(true)}>
-              Reply
+            <button
+            className="btn bare"
+            onClick={() => setShowReplyBox(false)}
+            >
+            Cancel Reply
             </button>
-          )}
+            <CommentForm parentId={comment.id} slug={slug} />
         </div>
-      )}
+        ) : (
+        <button className="btn bare" onClick={() => setShowReplyBox(true)}>
+            Reply
+        </button>
+        )}
+    </div>
     </CommentBox>
   )
 }
