@@ -20,10 +20,7 @@ const Comments = ({ comments, slug }) => {
           comments
             .filter(comment => !comment.pId)
             .map(comment => {
-              let childComments = []
-              if (comment.id) {
-                childComments = comments.filter(c => comment.id === c.pId)
-              }
+              const childComments = comments.filter(c => comment.id === c.pId)
               return (
                 <Comment
                   key={comment.id}
