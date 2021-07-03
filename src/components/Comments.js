@@ -21,17 +21,8 @@ const Comments = ({ comments, slug }) => {
             .filter(comment => !comment.pId)
             .map(comment => {
               let childComments = []
-              //let child
               if (comment.id) {
-                // comments.forEach(element => {
-                //   if (element.pId === comment.id){
-                //     children.push(element);
-                //   }
-                // });
                 childComments = comments.filter(c => comment.id === c.pId)
-                // console.log("original comment: ", comment)
-                console.log("childComments: ", childComments)
-                // console.log("All comments: ", comments)
               }
               return (
                 <Comment
