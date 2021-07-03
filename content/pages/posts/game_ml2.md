@@ -16,4 +16,4 @@ Sections: []
 layout: post
 thumb_img_path: /images/charming-sparrow.PNG
 ---
-## For part I, go [here](https://www.tzure.com/posts/game_ml/)
+### For part I, go [here](https://www.tzure.com/posts/game_ml/)
