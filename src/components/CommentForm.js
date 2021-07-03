@@ -50,9 +50,7 @@ const CommentForm = ({ parentId, slug, comments, setComment }) => {
       console.error('error adding comment: ', err)
     })
 
-comments.pu
-    setComment()
-    
+    setComment([...comments, comment]);
   }
 
   return (
