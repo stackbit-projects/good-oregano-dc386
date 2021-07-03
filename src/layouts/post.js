@@ -8,18 +8,6 @@ import { htmlToReact, withPrefix, markdownify } from '../utils';
 
 export default class Post extends React.Component {
     slug = ""
-    
-    componentDidMount() {
-        firestore.collection('comments').get().then(data => {
-            const newComments = data.docs.filter(doc => doc.data().slug == this.slug).map(item=>{
-                return {id: item.id, ...item.data()}
-            });
-            this.setState({
-                realComments: newComments
-            });
-
-        })
-    } 
 
     render() {
         const data = _.get(this.props, 'data');
