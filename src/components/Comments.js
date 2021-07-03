@@ -24,7 +24,7 @@ const Comments = ({ slug }) => {
   return (
     <div>
       <h2>Join the discussion</h2>
-      <CommentForm slug={slug} setComments={setComments} />
+      <CommentForm slug={slug} comments={comments} setComments={setComments} />
       <CommentList>
         {comments.length > 0 &&
           comments
