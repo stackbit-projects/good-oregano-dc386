@@ -22,7 +22,7 @@ const CommentList = styled.div`
     } 
 
 const Comments = ({ slug }) => {
-    const comments = useState();
+    const [comments, setComments] = useState();
     useEffect(() => {
         firestore.collection('comments').get().then(data => {
             const newComments = data.docs.filter(doc => doc.data().slug == this.slug).map(item=>{
