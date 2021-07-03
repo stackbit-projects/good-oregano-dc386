@@ -81,7 +81,7 @@ const Comment = ({ comment, childComments, slug, comments, setComments }) => {
             >
             Cancel Reply
             </button>
-            <CommentForm parentId={comment.id} slug={slug} comments={comments} setComments={setComments} />
+            <CommentForm parentId={comment.id} slug={slug} reloadComments={reloadComments} setComments={setComments} />
         </div>
         ) : (
         <button className="btn bare" onClick={() => setShowReplyBox(true)}>
