@@ -62,7 +62,7 @@ const SingleComment = ({ comment }) => {
   )
 }
 
-const Comment = ({ comment, childComments, slug }) => {
+const Comment = ({ comment, childComments, slug, comment, setComments }) => {
   const [showReplyBox, setShowReplyBox] = useState(false)
   return (
     <CommentBox>
