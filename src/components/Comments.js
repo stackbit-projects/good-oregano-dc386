@@ -11,7 +11,7 @@ const CommentList = styled.div`
 `
 
 const Comments = ({ comments, slug }) => {
-    useState()
+    const comments = useState();
   return (
     <div>
       <h2>Join the discussion</h2>
