@@ -6,8 +6,6 @@ import { Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
 
 export default class Post extends React.Component {
-    slug = ""
-
     render() {
         const data = _.get(this.props, 'data');
         const config = _.get(data, 'config');
