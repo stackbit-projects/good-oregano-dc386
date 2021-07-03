@@ -16,9 +16,4 @@ Sections: []
 layout: post
 thumb_img_path: /images/charming-sparrow.PNG
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+## For part I, go [here](https://www.tzure.com/posts/game_ml/)
