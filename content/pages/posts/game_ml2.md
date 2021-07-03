@@ -4,7 +4,7 @@ subtitle: The long awaited second part of the AI I've built using Neural Network
 date: '2021-07-03'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: The long awaited second part of the AI I've built using Neural Networks.
 seo:
   title: ''
   description: ''
