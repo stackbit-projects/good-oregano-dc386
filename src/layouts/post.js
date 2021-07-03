@@ -21,7 +21,6 @@ export default class Post extends React.Component {
         const markdownContent = _.get(page, 'markdown_content');
         const metadata = _.get(page, '__metadata');
         const slug = _.get(metadata, 'urlPath')
-        this.slug = slug;
 
         return (
             <Layout page={page} config={config}>
