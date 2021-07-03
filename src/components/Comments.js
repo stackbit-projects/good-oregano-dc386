@@ -36,7 +36,6 @@ const Comments = ({ comments, slug }) => {
               return (
                 <Comment
                   key={comment.id}
-                  children={child}
                   childComments={childComments}
                   slug={slug}
                 />
