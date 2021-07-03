@@ -15,5 +15,6 @@ category: devlog
 Sections: []
 layout: post
 thumb_img_path: /images/charming-sparrow.PNG
+content_img_path: /images/fabulous-iron.PNG
 ---
 ### For part I, go [here](https://www.tzure.com/posts/game_ml/)
