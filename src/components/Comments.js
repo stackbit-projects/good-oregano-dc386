@@ -28,16 +28,16 @@ const Comments = ({ comments, slug }) => {
                 //     children.push(element);
                 //   }
                 // });
-                children = comments.find(c => comment.id === c.pId)
+                childComments = comments.find(c => comment.id === c.pId)
                 // console.log("original comment: ", comment)
-                console.log("children: ", children)
+                console.log("childComments: ", childComments)
                 // console.log("All comments: ", comments)
               }
               return (
                 <Comment
                   key={comment.id}
                   children={child}
-                  comment={comment}
+                  childComments={childComments}
                   slug={slug}
                 />
               )
