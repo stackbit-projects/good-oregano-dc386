@@ -1,5 +1,5 @@
 ---
-title: How I've built an AI that knows how to play games - Part I
+title: How I've built an AI that knows how to play games - Part II
 subtitle: lorem-ipsum
 date: '2021-07-03'
 thumb_img_alt: lorem-ipsum
