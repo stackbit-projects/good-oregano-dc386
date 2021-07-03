@@ -29,7 +29,7 @@ const CommentBox = styled.div`
   }
 `
 
-const CommentForm = ({ parentId, slug, comments, setComment }) => {
+const CommentForm = ({ parentId, slug, comments, setComments }) => {
   const [name, setName] = useState("")
   const [content, setContent] = useState("")
 
@@ -50,7 +50,7 @@ const CommentForm = ({ parentId, slug, comments, setComment }) => {
       console.error('error adding comment: ', err)
     })
 
-    setComment([...comments, comment]);
+    setComments([...comments, comment]);
   }
 
   return (
