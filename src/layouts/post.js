@@ -2,7 +2,6 @@ import React, {useState, useEffect} from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
 import Comments from "../components/Comments"
-import {firestore} from "../firebase.js"
 import { Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
 
