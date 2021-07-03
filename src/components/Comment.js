@@ -67,7 +67,7 @@ const Comment = ({ comment, childComments, slug, reloadComments }) => {
   return (
     <CommentBox>
       <SingleComment comment={comment} />
-      {childComments && childComments.sort().map(child =>
+      {childComments && childComments.sort(a,b=>a.time-b.time).map(child =>
         <CommentBox key={child.id} child className="comment-reply">
             <SingleComment comment={child} />
         </CommentBox>
