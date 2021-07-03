@@ -96,7 +96,6 @@ const Comment = ({ comment, childComments, slug }) => {
 Comment.propTypes = {
   comment: PropTypes.object.isRequired,
   slug: PropTypes.string,
-  child: PropTypes.object
 }
 
 export default Comment
