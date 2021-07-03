@@ -20,7 +20,7 @@ const Comments = ({ comments, slug }) => {
           comments
             .filter(comment => !comment.pId)
             .map(comment => {
-              let children = []
+              let childComments = []
               //let child
               if (comment.id) {
                 // comments.forEach(element => {
@@ -30,13 +30,13 @@ const Comments = ({ comments, slug }) => {
                 // });
                 children = comments.find(c => comment.id === c.pId)
                 // console.log("original comment: ", comment)
-                console.log("child: ", child)
+                console.log("children: ", children)
                 // console.log("All comments: ", comments)
               }
               return (
                 <Comment
                   key={comment.id}
-                  child={child}
+                  children={child}
                   comment={comment}
                   slug={slug}
                 />
