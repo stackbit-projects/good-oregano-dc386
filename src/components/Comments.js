@@ -24,7 +24,7 @@ const Comments = ({ slug }) => {
   return (
     <div>
       <h2>Join the discussion</h2>
-      <CommentForm slug={slug} comments={comments} setComments={setComments} />
+      <CommentForm slug={slug} reloadComments={reloadComments} />
       <CommentList>
         {comments.length > 0 &&
           comments
@@ -37,7 +37,7 @@ const Comments = ({ slug }) => {
                   comment={comment}
                   childComments={childComments}
                   slug={slug}
-                  comments={comments} setComments={setComments}
+                  reloadComments={reloadComments}
                 />
               )
             })}
