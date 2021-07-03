@@ -29,7 +29,7 @@ const CommentBox = styled.div`
   }
 `
 
-const CommentForm = ({ parentId, slug }) => {
+const CommentForm = ({ parentId, slug, comments, setComment }) => {
   const [name, setName] = useState("")
   const [content, setContent] = useState("")
 
