@@ -10,7 +10,7 @@ const CommentList = styled.div`
   }
 `
 
-const Comments = ({ comments, slug }) => {
+const Comments = ({ slug }) => {
     const comments = useState();
   return (
     <div>
