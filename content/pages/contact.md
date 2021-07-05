@@ -24,7 +24,8 @@ sections:
         default_value: Please select
         options:
           - Project and Game proposals
-          - 
+          - Technical question
+          - Devlog 
           - Error on the site
           - Sponsorship
           - Other
