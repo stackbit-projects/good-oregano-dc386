@@ -7,7 +7,7 @@ import moment from "moment"
 const CommentBox = styled.article`
   border: 1px solid #ddd;
   margin: 35px 0 0 ${props => (props.child ? "20px" : "0")};
-  padding: 35px;
+  padding: 1px;
 
   .flex-container1 {
     display: flex;
@@ -54,7 +54,7 @@ const SingleComment = ({ comment }) => {
           <p className="comment-author">
             {comment.name} <span>says</span>
           </p>
-          {comment.time && (<time>{moment(comment.time.toDate()).calendar()}</time>)}
+          {comment.timestamp && (<time>{moment(new Date(comment.timestamp)).calendar()}</time>)}
         </div>
       </div>
       <p>{comment.content}</p>
@@ -67,8 +67,8 @@ const Comment = ({ comment, childComments, slug, reloadComments }) => {
   return (
     <CommentBox>
       <SingleComment comment={comment} />
-      {childComments && childComments.sort((a,b)=>a.time-b.time).map(child =>
-        <CommentBox key={child.id} child className="comment-reply">
+      {/* {childComments && childComments.sort((a,b)=>a.time-b.time).map((child, index) =>
+        <CommentBox key={index} child className="comment-reply">
             <SingleComment comment={child} />
         </CommentBox>
       )}
@@ -87,8 +87,8 @@ const Comment = ({ comment, childComments, slug, reloadComments }) => {
         <button className="btn bare" onClick={() => setShowReplyBox(true)}>
             Reply
         </button>
-        )}
-    </div>
+        )} */}
+    {/* </div> */}
     </CommentBox>
   )
 }

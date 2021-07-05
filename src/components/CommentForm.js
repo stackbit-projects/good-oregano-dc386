@@ -1,8 +1,8 @@
-import React, { useState } from "react"
+import React, {useState, useEffect} from "react"
 import styled from "styled-components"
 import _ from 'lodash';
 import PropTypes from "prop-types"
-import {firestore} from "../firebase.js"
+import firebase, {firestore} from "../firebase.js"
 
 const CommentBox = styled.div`
   input,
@@ -25,7 +25,7 @@ const CommentBox = styled.div`
 
   label {
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 2px;
   }
 `
 
@@ -35,17 +35,32 @@ const CommentForm = ({ parentId, slug, reloadComments }) => {
 
   const handleCommentSubmission = async e => {
     e.preventDefault()
+    const timeNow = Date.now();
     let comment = {
       name: name,
       content: content,
       pId: parentId || null,
-      time: new Date(),
+      time: timeNow,
       slug: slug,     
     }
     setName("")
     setContent("")
-    console.log(comment)
-    firestore.collection(`comments`).add(comment)
+    const jsonComment = JSON.stringify({name: name, content: content, timestamp: timeNow, pId: null})
+    console.log(jsonComment)
+    firestore.collection(`comments`).doc(slug).get().then(doc =>{
+        if (doc.exists) {
+          const existingDoc = firestore.collection(`comments`).doc(slug)
+          existingDoc.update({
+              comments: firebase.firestore.FieldValue.arrayUnion(jsonComment)
+            })
+        }
+        else {
+          firestore.collection(`comments`).doc(slug).set({
+            comments: [jsonComment]
+          })
+        }
+        reloadComments()
+      })
     .catch(err => {
       console.error('error adding comment: ', err)
     })

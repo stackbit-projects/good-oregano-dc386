@@ -11,7 +11,7 @@ sections:
 
       Currently developing amazing stuff at Flipkart.com, and also working with
       my wife on our first Single-player game - [Diagnose
-      me](tzure.com/diagnoseme).
+      me](/diagnoseme).
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts across all devlogs

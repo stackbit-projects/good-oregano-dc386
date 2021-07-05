@@ -20,7 +20,7 @@ export default class Post extends React.Component {
         const formattedDate = moment(date).strftime('%A, %B %e, %Y');
         const markdownContent = _.get(page, 'markdown_content');
         const metadata = _.get(page, '__metadata');
-        const slug = _.get(metadata, 'urlPath')
+        let slug = _.get(metadata, 'urlPath');
 
         return (
             <Layout page={page} config={config}>
@@ -35,6 +35,7 @@ export default class Post extends React.Component {
                         </div>
                     )}
                     {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
+                    <Comments slug={slug} />
                     <footer className="post-meta inner-sm">
                         <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                         <span> {category} </span>
