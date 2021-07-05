@@ -23,7 +23,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Project propsels
+          - Project and Game proposals
           - 
           - Error on the site
           - Sponsorship
