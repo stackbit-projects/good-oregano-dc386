@@ -49,7 +49,7 @@ export default class SectionPosts extends React.Component {
         const title = _.get(section, 'title');
         const actions = _.get(section, 'actions');
         const posts = _.filter(_.orderBy(_.get(this.props, 'posts', []), 'date', 'desc'), (post) => {
-            if (category == "all" && post.category != "unpublished") {
+            if (category == "all" & post.category != "unpublished") {
                 return true
             }
             return post.category == category;
