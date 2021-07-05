@@ -395,7 +395,7 @@ models:
           - diagnoseme_devlog
           - journal
           - tech
-          - ''
+          - unpublished
       - name: Sections
         type: list
         label: Sections
