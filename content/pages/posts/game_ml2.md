@@ -11,7 +11,7 @@ seo:
   robots: []
   extra: []
   type: stackbit_page_meta
-category: devlog
+category: unpublished
 Sections: []
 layout: post
 thumb_img_path: /images/charming-sparrow.PNG
