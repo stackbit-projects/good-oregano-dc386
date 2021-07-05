@@ -391,10 +391,16 @@ models:
         name: category
         label: Category
         options:
-          - devlog
-          - diagnoseme_devlog
-          - journal
-          - tech
+          - label: devlog
+            value: devlog
+          - label: diagnoseme_devlog
+            value: diagnoseme_devlog
+          - label: journal
+            value: journal
+          - label: tech
+            value: tech
+          - label: ''
+            value: ''
       - name: Sections
         type: list
         label: Sections
