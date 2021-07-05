@@ -23,7 +23,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - development consoltent
+          - development consultant
           - Error on the site
           - Sponsorship
           - Other
