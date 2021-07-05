@@ -25,7 +25,7 @@ sections:
         options:
           - Project and Game proposals
           - Technical question
-          - Devlog 
+          - Devlog question
           - Error on the site
           - Sponsorship
           - Other
