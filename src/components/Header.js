@@ -145,15 +145,16 @@ export default class Header extends React.Component {
                         )}
                     </div>
                 </div>
-                <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-F3G8S9TTFT"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+                <div>
+                    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F3G8S9TTFT"></script>
+                    <script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
 
-        gtag('config', 'G-F3G8S9TTFT');
-        </script>
+                    gtag('config', 'G-F3G8S9TTFT');
+                    </script>
+                    </div>
 
             </header>
         );
