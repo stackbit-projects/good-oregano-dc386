@@ -32,7 +32,23 @@ export default class MyDocument extends Document {
         // const pageProps = _.get(this.props, '__NEXT_DATA__.props.pageProps');
         return (
             <Html {...this.helmetHtmlAttrComponents}>
-                <Head>{this.helmetHeadComponents}</Head>
+                <Head>{this.helmetHeadComponents}
+                <script
+                    async
+                    src="https://www.googletagmanager.com/gtag/js?id=G-F3G8S9TTFT"
+                    />
+
+                    <script
+                    dangerouslySetInnerHTML={{
+                        __html: `
+                        window.dataLayer = window.dataLayer || [];
+                        function gtag(){dataLayer.push(arguments);}
+                        gtag('js', new Date());
+                        gtag('config', 'G-F3G8S9TTFT', { page_path: window.location.pathname });
+                        `,
+                    }}
+                    />
+                </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src={withPrefix('js/plugins.js')} />
