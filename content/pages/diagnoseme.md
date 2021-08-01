@@ -5,8 +5,18 @@ excerpt: lorem-ipsum
 sections:
   - title: Diagnose Me Devlog
     section_id: lorem-ipsum
-    content: |
-      the devlog of the most anticipated game of 2022 - Diagnose me
+    content: >
+      **Diagnose me** is a sim game meant for those of us who always wanted to
+      be a doctor, but never had the chance.
+
+
+      Learn how to recognize symptoms, collect family history, understand a
+      patient's background and motivations so you could offer the best course of
+      action to them. As the game progresses, more options open up and harder
+      cases will appear.
+
+
+      Join us in the development process and follow this unique game!
     actions: []
     type: section_hero
   - title: recent posts
