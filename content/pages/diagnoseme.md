@@ -11,9 +11,9 @@ sections:
 
 
       Learn how to recognize symptoms, collect family history, understand a
-      patient's background and motivations so you could offer the best course of
-      action to them. As the game progresses, more options open up and harder
-      cases will appear.
+      patient's background and motivations so you could offer the best treatment
+      for them. As the game progresses, more options open up and harder cases
+      will appear.
 
 
       Join us in the development process and follow this unique game!
