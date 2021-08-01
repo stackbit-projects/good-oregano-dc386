@@ -344,8 +344,7 @@ models:
         default: post-image
       - name: ''
         type: string
-      - name: ''
-        type: string
+        label: ''
   post:
     type: page
     urlPath: /posts/{slug}
