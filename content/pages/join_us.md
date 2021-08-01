@@ -1,5 +1,5 @@
 ---
-title: Join us!
+title: Follow us!
 subtitle: lorem-ipsum
 img_alt: lorem-ipsum
 seo:
