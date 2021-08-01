@@ -30,5 +30,6 @@ seo:
   robots: []
   extra: []
   type: stackbit_page_meta
+  title: Diagnose Me Devlog - a sim game for the aspiring doctor!
 layout: advanced
 ---
