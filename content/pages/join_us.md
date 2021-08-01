@@ -1,6 +1,8 @@
 ---
 title: Follow us!
-subtitle: lorem-ipsum
+subtitle: >-
+  You can join our mailing list to get updates on the development of this game.
+  We promise not to send too many emails!
 img_alt: lorem-ipsum
 seo:
   title: ''
