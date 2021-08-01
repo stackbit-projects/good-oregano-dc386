@@ -13,7 +13,7 @@ seo:
 page_style: post-image
 layout: page
 form:
-  input_type: text
+  input_type: email
   name: lorem-ipsum
   label: lorem-ipsum
   default_value: lorem-ipsum
