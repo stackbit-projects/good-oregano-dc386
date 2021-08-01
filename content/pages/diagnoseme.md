@@ -6,8 +6,8 @@ sections:
   - title: Diagnose Me Devlog
     section_id: lorem-ipsum
     content: >
-      **Diagnose me** is a sim game meant for those of us who always wanted to
-      be a doctor, but never had the chance.
+      **Diagnose me** is a simulation game, meant for those of us who always
+      wanted to be a doctor, but never had the chance.
 
 
       Learn how to recognize symptoms, collect family history, understand a
