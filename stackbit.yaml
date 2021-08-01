@@ -344,7 +344,8 @@ models:
         default: post-image
       - name: ''
         type: model
-        models: []
+        models:
+          - section_form
   post:
     type: page
     urlPath: /posts/{slug}
