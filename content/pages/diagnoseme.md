@@ -28,7 +28,11 @@ sections:
 seo:
   description: A development blog for An indie simulation game.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/diagnoe_me_title2.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
   title: Diagnose Me Devlog - a sim game for the aspiring doctor!
 layout: advanced
