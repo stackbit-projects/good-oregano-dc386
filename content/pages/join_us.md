@@ -12,12 +12,4 @@ seo:
   type: stackbit_page_meta
 page_style: post-image
 layout: page
-form:
-  input_type: email
-  name: lorem-ipsum
-  label: lorem-ipsum
-  default_value: lorem-ipsum
-  options: []
-  is_required: false
-  type: form_field
 ---
