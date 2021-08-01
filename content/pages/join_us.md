@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Join us!
 subtitle: lorem-ipsum
 img_alt: lorem-ipsum
 seo:
