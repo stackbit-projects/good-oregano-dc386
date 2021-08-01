@@ -342,6 +342,8 @@ models:
           - about-image
           - about
         default: post-image
+      - name: ''
+        type: string
   post:
     type: page
     urlPath: /posts/{slug}
