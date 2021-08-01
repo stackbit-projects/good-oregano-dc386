@@ -342,7 +342,7 @@ models:
           - about-image
           - about
         default: post-image
-      - name: ''
+      - name: form
         type: model
         models:
           - section_form
