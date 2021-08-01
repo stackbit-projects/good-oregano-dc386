@@ -342,10 +342,6 @@ models:
           - about-image
           - about
         default: post-image
-      - name: form
-        type: model
-        models:
-          - form_field
   post:
     type: page
     urlPath: /posts/{slug}
