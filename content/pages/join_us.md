@@ -13,4 +13,3 @@ seo:
 page_style: post-image
 layout: page
 ---
-*
