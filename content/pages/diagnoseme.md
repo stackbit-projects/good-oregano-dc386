@@ -26,7 +26,7 @@ sections:
     type: section_posts
     category: diagnoseme_devlog
 seo:
-  description: ''
+  description: A development blog for An indie simulation game.
   robots: []
   extra: []
   type: stackbit_page_meta
