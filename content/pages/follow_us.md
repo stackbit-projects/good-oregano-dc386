@@ -13,7 +13,7 @@ sections:
     form_fields:
       - input_type: email
         name: Add your Email to subscribe for updates!
-        label: lorem-ipsum
+        label: Add your Email to subscribe for updates!
         default_value: lorem-ipsum
         options: []
         is_required: false
