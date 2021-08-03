@@ -18,8 +18,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
-  - title: Follow us!
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
