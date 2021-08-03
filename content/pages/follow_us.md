@@ -3,7 +3,7 @@ title: Follow us!
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Follow us!
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
