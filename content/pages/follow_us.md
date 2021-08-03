@@ -14,7 +14,8 @@ sections:
       - input_type: email
         name: Add your Email to subscribe for updates!
         label: Add your Email to subscribe for updates!
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
         type: form_field
     submit_label: lorem-ipsum
