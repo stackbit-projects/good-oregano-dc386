@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Follow us!
 hide_title: false
 excerpt: lorem-ipsum
 sections: []
