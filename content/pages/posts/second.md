@@ -4,7 +4,7 @@ subtitle: >-
   We had to change some basic mechanics, add new tutorials and develop important
   features in game. Now, we're having a lot more fun with the game!
 date: '2021-08-05'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Diagnosis screen
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
