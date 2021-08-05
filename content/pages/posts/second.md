@@ -31,3 +31,8 @@ you can see a cool example here -
 
 
 
+As you can see, past cases now have a resolution, so you can learn from your mistakes and improve.
+
+And on that topic, we've also added an important UI element - the Doctor's Guide!
+This guide will help you understand what to do in each phase, and help point you in the right direction!
+
