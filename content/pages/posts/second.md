@@ -16,5 +16,6 @@ seo:
 category: diagnoseme_devlog
 Sections: []
 layout: post
+thumb_img_path: /images/patient diagnose.PNG
 ---
 The first thing we did was add some models we built using Blender. We even animated them and added a new camera angle for the diagnosis part, so we feel the game is a lot more engaging now!
