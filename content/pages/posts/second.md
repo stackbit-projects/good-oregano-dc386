@@ -6,7 +6,7 @@ subtitle: >-
 date: '2021-08-05'
 thumb_img_alt: Diagnosis screen
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: We've added a lot of stuff! New models, mechanics, and even cool animations!
 seo:
   title: ''
   description: ''
