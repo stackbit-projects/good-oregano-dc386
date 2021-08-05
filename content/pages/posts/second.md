@@ -27,7 +27,7 @@ You can see an example gif here:
 
 We also added full support of the Cases screen - you can now see the old cases you solved, and whether you were right or wrong about them!
 
-you can see a cool example here - 
+you can see a cool example here -
 
 
 
