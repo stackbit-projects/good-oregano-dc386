@@ -1,6 +1,8 @@
 ---
 title: 'Diagnose Me Devlog 2: redesign and prepare for first Alpha!'
-subtitle: lorem-ipsum
+subtitle: >-
+  We had to change some basic mechanics, and added new tutorials and guides in
+  game. Now, we're having a lot more fun playing the game!
 date: '2021-08-05'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
