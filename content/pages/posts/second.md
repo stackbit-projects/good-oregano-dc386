@@ -17,5 +17,6 @@ category: diagnoseme_devlog
 Sections: []
 layout: post
 thumb_img_path: /images/patient diagnose.PNG
+content_img_path: /images/blue-artichoke.PNG
 ---
 The first thing we did was add some models we built using Blender. We even animated them and added a new camera angle for the diagnosis part, so we feel the game is a lot more engaging now!
