@@ -1,5 +1,5 @@
 ---
-title: 'Diagnose Me Devlog 2: redesign and pre'
+title: 'Diagnose Me Devlog 2: redesign and prepare for first Alpha!'
 subtitle: lorem-ipsum
 date: '2021-08-05'
 thumb_img_alt: lorem-ipsum
