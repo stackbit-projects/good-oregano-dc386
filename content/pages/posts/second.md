@@ -17,9 +17,4 @@ category: diagnoseme_devlog
 Sections: []
 layout: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+The first thing we did was add some models we built using Blender. We even animated them and added a new camera angle for the diagnosis part, so we feel the game is a lot more engaging now!
