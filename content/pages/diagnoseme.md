@@ -16,8 +16,7 @@ sections:
       will appear.
 
 
-      [Diagnose
-      me](/diagnoseme) in the development process and follow this unique game!
+      [Join Us](/diagnoseme) in the development process and follow this unique game!
     actions: []
     type: section_hero
   - title: recent posts
