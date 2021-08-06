@@ -10,7 +10,7 @@ sections:
       newsletter and follow us!
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: Add your email here
     section_id: lorem-ipsum
     form_id: lorem-ipsum
     form_action: lorem-ipsum
