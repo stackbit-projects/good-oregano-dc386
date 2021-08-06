@@ -4,7 +4,7 @@ hide_title: true
 excerpt: To get updates
 sections:
   - title: Follow us!
-    section_id: lorem-ipsum
+    section_id: follow_us_title
     content: >-
       ## Lorem ipsum
 
