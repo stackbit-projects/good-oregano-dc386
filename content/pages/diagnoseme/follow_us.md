@@ -5,17 +5,9 @@ excerpt: To get updates
 sections:
   - title: Follow us!
     section_id: follow_us_title
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      To get updates to Diagnose Me as they come out, subscribe to our
+      newsletter and follow us!
     actions: []
     type: section_hero
   - title: lorem-ipsum
