@@ -1,7 +1,7 @@
 ---
 title: Follow us
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: To get updates
 sections: []
 seo:
   title: ''
