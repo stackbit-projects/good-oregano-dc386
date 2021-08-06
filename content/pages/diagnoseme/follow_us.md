@@ -1,6 +1,6 @@
 ---
 title: Follow us
-hide_title: true
+hide_title: false
 excerpt: To get updates
 sections: []
 seo:
