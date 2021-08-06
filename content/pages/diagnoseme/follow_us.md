@@ -12,7 +12,7 @@ sections:
     type: section_hero
   - title: Add your email here
     section_id: lorem-ipsum
-    form_id: lorem-ipsum
+    form_id: follow_us
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
