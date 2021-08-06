@@ -1,7 +1,6 @@
 ---
 title: Follow us!
 hide_title: true
-excerpt: lorem-ipsum
 sections:
   - title: Follow us!
     section_id: follow us
