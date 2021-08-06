@@ -1,6 +1,6 @@
 ---
 title: Follow us
-hide_title: false
+hide_title: true
 excerpt: To get updates
 sections:
   - title: lorem-ipsum
