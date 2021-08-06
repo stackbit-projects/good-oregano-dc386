@@ -3,7 +3,7 @@ title: Follow us
 hide_title: true
 excerpt: To get updates
 sections:
-  - title: lorem-ipsum
+  - title: Follow us!
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
