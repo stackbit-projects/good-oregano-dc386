@@ -16,8 +16,7 @@ sections:
       will appear.
 
 
-      [Join us](tzure.com/follow_us) in the development process and follow this
-      unique game!
+      [Join Us](/diagnoseme/follow_us) in the development process and follow this unique game!
     actions: []
     type: section_hero
   - title: recent posts
