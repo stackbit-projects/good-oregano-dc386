@@ -21,7 +21,7 @@ sections:
         is_required: true
         type: form_field
         label: Email
-    submit_label: lorem-ipsum
+    submit_label: Follow us!
     type: section_form
 seo:
   title: ''
