@@ -18,7 +18,7 @@ sections:
       - input_type: email
         name: Mail
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         label: Email
     submit_label: lorem-ipsum
