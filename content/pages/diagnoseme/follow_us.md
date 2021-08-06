@@ -17,7 +17,6 @@ sections:
     form_fields:
       - input_type: email
         name: Mail
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
