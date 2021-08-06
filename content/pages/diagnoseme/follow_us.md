@@ -5,9 +5,8 @@ excerpt: To get updates
 sections:
   - title: Follow us!
     section_id: follow_us_title
-    content: >
-      To get updates to Diagnose Me as they come out, subscribe to our
-      newsletter and follow us!
+    content: |
+      To get updates for Diagnose Me, subscribe to our newsletter and follow us!
     actions: []
     type: section_hero
   - title: Add your email here
