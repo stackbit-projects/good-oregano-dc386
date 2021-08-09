@@ -16,7 +16,8 @@ sections:
       will appear.
 
 
-      [Join Us](/diagnoseme/follow_us) in the development process and follow this unique game!
+      [Join Us](/diagnoseme/follow_us), GeekyOwls Studio, in the development
+      process and follow this unique game!
     actions: []
     type: section_hero
   - title: recent posts
