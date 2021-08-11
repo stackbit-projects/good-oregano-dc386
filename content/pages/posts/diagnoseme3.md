@@ -22,3 +22,16 @@ layout: post
 So, these last few weeks were a blast.
 
 We've used [MakeHuman ](http://www.makehumancommunity.org/)to create some models for our game. Although we plan the Alpha to be without big animations and crazy models( just fun gameplay), we wanted to add some models so we could basically work on our modeling and animation skills.
+
+We created 2 main characters - Male and Female (also 2 types of children, but animating them is still WIP)
+
+The Female - 
+
+
+
+GIF animation of her entering the clinic and asking for help
+
+
+
+The Male - 
+
