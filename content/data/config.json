@@ -25,7 +25,7 @@
                 "type": "action"
             },
             {
-                "label": "Tech",
+                "label": "Tech-blog",
                 "url": "/devlog/",
                 "style": "link"
             },
