@@ -17,9 +17,6 @@ category: devlog
 Sections: []
 layout: post
 ---
-## Lorem ipsum
+So, these last few weeks were a blast.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+We've used [MakeHuman ](http://www.makehumancommunity.org/)to create some models for our game. Although we plan the Alpha to be without big animations and crazy models( just fun gameplay), we wanted to add some models so we could basically work on our modeling and animation skills.
