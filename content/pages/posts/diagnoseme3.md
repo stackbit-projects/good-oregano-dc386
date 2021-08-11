@@ -4,7 +4,9 @@ subtitle: >-
   We've used the free open-source engine - MakeHuman to create models to our
   game! And we have some nice looking models to start the work on!
 date: '2021-08-11'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: >-
+  How we've used MakeHuman to create human models and animate them using
+  Blender!
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
