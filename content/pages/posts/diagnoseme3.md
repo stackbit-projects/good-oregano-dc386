@@ -1,5 +1,5 @@
 ---
-title: 'Devlog #3 - '
+title: 'Devlog #3 -Making Humans!'
 subtitle: lorem-ipsum
 date: '2021-08-11'
 thumb_img_alt: lorem-ipsum
