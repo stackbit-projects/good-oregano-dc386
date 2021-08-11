@@ -25,13 +25,10 @@ We've used [MakeHuman ](http://www.makehumancommunity.org/)to create some models
 
 We created 2 main characters - Male and Female (also 2 types of children, but animating them is still WIP)
 
-The Female - 
-
-
+The Female -
 
 GIF animation of her entering the clinic and asking for help
 
 
 
-The Male - 
-
+The Male -
