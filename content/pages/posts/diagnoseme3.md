@@ -1,6 +1,6 @@
 ---
 title: 'Devlog #3 -Making Humans!'
-subtitle: lorem-ipsum
+subtitle: We've used the free open-source engine - Make
 date: '2021-08-11'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
