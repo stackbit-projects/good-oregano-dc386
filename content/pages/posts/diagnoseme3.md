@@ -7,7 +7,6 @@ date: '2021-08-18'
 thumb_img_alt: >-
   How we've used MakeHuman to create human models and animate them using
   Blender!
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
