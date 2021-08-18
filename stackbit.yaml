@@ -706,3 +706,6 @@ models:
   newsletterform:
     type: object
     label: newsletterform
+    fields:
+      - name: ''
+        type: string
