@@ -18,6 +18,9 @@ Sections: []
 layout: post
 thumb_img_path: /images/women2.PNG
 content_img_path: /images/diagnoe_me_title2-d346ef60.png
+excerpt: >-
+  How we've used MakeHuman to create human models and animate them using
+  Blender!
 ---
 So, these last few weeks were a blast.
 
