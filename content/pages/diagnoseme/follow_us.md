@@ -12,7 +12,7 @@ sections:
   - title: Add your email here
     section_id: lorem-ipsum
     form_id: follow_us
-    form_action: /thank-you
+    form_action: /thank-you-diagnoseme
     form_fields:
       - input_type: email
         name: email
