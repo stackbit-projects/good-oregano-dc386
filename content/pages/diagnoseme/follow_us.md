@@ -15,7 +15,7 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: email
-        name: eMail
+        name: email
         options: []
         is_required: true
         type: form_field
