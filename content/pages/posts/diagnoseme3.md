@@ -19,6 +19,7 @@ category: diagnoseme_devlog
 Sections: []
 layout: post
 thumb_img_path: /images/women2.PNG
+content_img_path: /images/diagnoe_me_title2-d346ef60.png
 ---
 So, these last few weeks were a blast.
 
