@@ -22,6 +22,11 @@ sections:
         label: Email
     submit_label: Follow us!
     type: section_form
+  - newsLetterForm:
+      newsLetterForm:
+        type: newsletterform
+      type: newsletterform
+    type: newsletterform
 seo:
   title: ''
   description: ''
