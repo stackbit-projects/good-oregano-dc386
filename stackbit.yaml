@@ -281,6 +281,7 @@ models:
             - section_form
             - section_hero
             - section_posts
+            - newsletterform
       - type: model
         name: seo
         models:
@@ -711,3 +712,4 @@ models:
         type: model
         models:
           - newsletterform
+        label: News Letter Form
