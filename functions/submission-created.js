@@ -4,7 +4,7 @@ const { EMAIL_TOKEN } = process.env
 exports.handler = async event => {
     console.log(`Recieved a contact submission`)
     console.log(JSON.parse(event.body).payload.name)
-    if (JSON.parse(event.body).payload.name == null){
+    if (JSON.parse(event.body).payload.name != null){
         console.log(`Recieved a contact submission, not a subscribe submission`)
         return
     }
