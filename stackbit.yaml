@@ -707,7 +707,7 @@ models:
     type: object
     label: newsletterform
     fields:
-      - name: ''
+      - name: newsLetterForm
         type: model
         models:
           - newsletterform
