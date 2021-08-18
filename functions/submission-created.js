@@ -2,10 +2,10 @@ require('dotenv').config()
 const fetch = require('node-fetch')
 const { EMAIL_TOKEN } = process.env
 exports.handler = async event => {
-    if ("subject" in JSON.parse(event.body).payload){
-        console.log("Received a submission from a different form.")
-        return
-    }
+  if ("subject" in JSON.parse(event.body).payload){
+      console.log("Received a submission from a different form.")
+      return
+  }
   const email = JSON.parse(event.body).payload.email
   console.log(`Recieved a submission: ${email}`)
   return fetch('https://api.buttondown.email/v1/subscribers', {
