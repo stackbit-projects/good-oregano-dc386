@@ -1,6 +1,8 @@
 ---
 title: Thank you!
-subtitle: lorem-ipsum
+subtitle: >-
+  thank you for subscribing to our Newsletter! Please check your email to
+  confirm you mail addres!
 img_alt: lorem-ipsum
 seo:
   title: ''
