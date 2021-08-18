@@ -2,7 +2,7 @@
 title: 'Devlog #3 -Making Humans!'
 subtitle: >-
   Nofar used the free open-source engine - MakeHuman to create models to our
-  game! And now we have some nice looking models to start the work on!
+  game! And now we have some nice looking models in our game!
 date: '2021-08-18'
 thumb_img_alt: >-
   How we've used MakeHuman to create human models and animate them using
@@ -20,7 +20,7 @@ thumb_img_path: /images/women2.PNG
 content_img_path: /images/diagnoe_me_title2-d346ef60.png
 excerpt: >-
   Nofar used the free open-source engine - MakeHuman to create models to our
-  game! And now we have some nice looking models to start the work on!
+  game! And now we have some nice looking models in our game!
 ---
 So, these last few weeks were a blast.
 
