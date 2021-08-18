@@ -709,4 +709,5 @@ models:
     fields:
       - name: ''
         type: model
-        models: []
+        models:
+          - newsletterform
