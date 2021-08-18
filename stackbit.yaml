@@ -708,4 +708,5 @@ models:
     label: newsletterform
     fields:
       - name: ''
-        type: string
+        type: model
+        models: []
