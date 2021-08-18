@@ -1,4 +1,5 @@
 [build]
 publish = "out"
 command = "npm run build"
-NEXT_PUBLIC_MAILCHIMP_URL="https://gmail.us5.list-manage.com/subscribe/post?u=fd655a3f49043968867fa99ab&amp;id=0bebf29d8f"
+base = "."
+functions = "./functions"
