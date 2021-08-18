@@ -18,6 +18,7 @@ seo:
 category: diagnoseme_devlog
 Sections: []
 layout: post
+thumb_img_path: /images/women2.PNG
 ---
 So, these last few weeks were a blast.
 
