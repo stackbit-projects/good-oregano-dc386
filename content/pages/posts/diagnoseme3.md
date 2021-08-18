@@ -15,7 +15,7 @@ seo:
   robots: []
   extra: []
   type: stackbit_page_meta
-category: unpublished
+category: diagnoseme_devlog
 Sections: []
 layout: post
 ---
