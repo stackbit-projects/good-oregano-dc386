@@ -3,7 +3,7 @@ title: 'Devlog #3 -Making Humans!'
 subtitle: >-
   We've used the free open-source engine - MakeHuman to create models to our
   game! And we have some nice looking models to start the work on!
-date: '2021-08-01'
+date: '2021-08-18'
 thumb_img_alt: >-
   How we've used MakeHuman to create human models and animate them using
   Blender!
