@@ -346,6 +346,7 @@ models:
         type: model
         models:
           - section_form
+        label: Form
   post:
     type: page
     urlPath: /posts/{slug}
@@ -702,3 +703,6 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  newsletterform:
+    type: object
+    label: newsletterform
