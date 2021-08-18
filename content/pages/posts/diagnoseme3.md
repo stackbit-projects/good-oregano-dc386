@@ -19,8 +19,8 @@ layout: post
 thumb_img_path: /images/women2.PNG
 content_img_path: /images/diagnoe_me_title2-d346ef60.png
 excerpt: >-
-  How we've used MakeHuman to create human models and animate them using
-  Blender!
+  Nofar used the free open-source engine - MakeHuman to create models to our
+  game! And now we have some nice looking models to start the work on!
 ---
 So, these last few weeks were a blast.
 
