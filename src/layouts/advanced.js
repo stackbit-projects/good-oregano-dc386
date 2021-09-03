@@ -17,7 +17,7 @@ export default class Advanced extends React.Component {
         if (title == "Diagnose Me"){
             console.log("hi");
             console.log(components);
-            components["Header"] = "";
+            // components["Header"] = "";
         }
 
         return (
