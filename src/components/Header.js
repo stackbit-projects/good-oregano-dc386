@@ -114,7 +114,7 @@ export default class Header extends React.Component {
         const navLinks = _.get(header, 'nav_links');
         const hasSocial = _.get(header, 'has_social');
         const socialLinks = _.get(header, 'social_links');
-        console.log("**" + pageUrl + "**");        
+        console.log("**" + pageUrl + "**");
         if (pageUrl.toString() == "diagnoseme"){
             var fdisplay = "none;";
         }
