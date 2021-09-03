@@ -116,7 +116,7 @@ export default class Header extends React.Component {
         const socialLinks = _.get(header, 'social_links');
         console.log("**" + pageUrl + "**");        
         if (pageUrl.toString() == "diagnoseme"){
-            console.log("It's diagnose me devlog!!!");
+            console.log("in devlog");
             var fdisplay = "none;";
         }
         else {
