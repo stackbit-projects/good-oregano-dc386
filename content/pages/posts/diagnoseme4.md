@@ -1,8 +1,8 @@
 ---
 title: 'Devlog #4 - Visuals part I'
 subtitle: >-
-  In the next two posts, we'll some exciting new visuals we've been working on.
-  A massive graphic overhaull
+  In the next two posts, we'll share some exciting new visuals we've been
+  working on. A massive graphic overhaull
 date: '2021-09-03'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
