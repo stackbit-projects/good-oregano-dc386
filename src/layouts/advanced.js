@@ -22,6 +22,7 @@ export default class Advanced extends React.Component {
                         <h1 className="post-title underline">{title}</h1>
                     </header>
                 )}
+                
                 {_.map(sections, (section, index) => {
                     const sectionType = _.get(section, 'type');
                     const component = _.upperFirst(_.camelCase(sectionType));
