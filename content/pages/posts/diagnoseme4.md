@@ -17,3 +17,21 @@ layout: post
 thumb_img_path: /images/1.PNG
 content_img_path: /images/1-73d07a5e.PNG
 ---
+After a massive research on Nofar's side, we've managed to get some very cool graphical elements - UI & 3D models!
+
+
+
+After the basic game systems worked, we realized we now need some nice visuals to go along with our alpha version.
+
+As you already know, Nofar designed the 3d models and then searched for matching assets to go along with the humans she created using MakeHuman.
+
+After some time, she found a very cool asset pack, which we combined with other office-oriented asset packs and created our first level.
+
+As this is still an alpha version, this won't be the final visuals. But it's important to give the first alpha testers that will play the game a good sense of how it should look at the end, and we are pleased with the current result.
+
+
+
+Yes, it will probably change a lot in the future. But still, you gotta admire the vision!
+
+
+
