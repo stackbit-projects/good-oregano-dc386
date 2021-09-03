@@ -36,19 +36,10 @@ Using Mixamo and some custom animations (Blender is cool!), we've created some v
 
 Here's a quick gif that shows off some cool graphics!
 
+Notice the system message box and some more intuitive UI design!
+
 ![](/images/ezgif.com-gif-maker-39850c54.gif)
-
-
 
 Some cool UI features - The new Doctor's guide!
 
-
-
-
-
-
-
 ![](/images/Guide-3f29cb14.gif)
-
-
-
