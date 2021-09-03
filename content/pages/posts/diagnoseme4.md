@@ -5,7 +5,6 @@ subtitle: >-
   From massive graphic improvements, to some slick UI elements
 date: '2021-09-03'
 thumb_img_alt: massive graphic improvements & cool UI elements!
-content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: ''
