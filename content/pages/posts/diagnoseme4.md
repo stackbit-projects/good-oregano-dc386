@@ -35,3 +35,5 @@ Also, we added some very cool animations!
 Using Mixamo and some custom animations (Blender is cool!), we've created some very cool animations!
 
 Here's a quick gif that shows off some cool graphics!
+
+![](/images/ezgif.com-gif-maker.gif)
