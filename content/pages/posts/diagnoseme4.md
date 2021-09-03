@@ -15,5 +15,5 @@ category: diagnoseme_devlog
 Sections: []
 layout: post
 thumb_img_path: /images/1.PNG
-content_img_path: /images/1-592e3324.PNG
+content_img_path: /images/1-73d07a5e.PNG
 ---
