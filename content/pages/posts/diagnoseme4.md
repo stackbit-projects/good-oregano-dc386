@@ -1,5 +1,5 @@
 ---
-title: 'Devlog #4 - Visuals part I'
+title: 'Devlog #4 - Visuals!'
 subtitle: >-
   In the next two posts, we'll share some exciting new visuals we've been
   working on. From massive graphic improvements, to some slick UI elements
