@@ -114,17 +114,16 @@ export default class Header extends React.Component {
         const navLinks = _.get(header, 'nav_links');
         const hasSocial = _.get(header, 'has_social');
         const socialLinks = _.get(header, 'social_links');
-        console.log("**" + pageUrl + "**");
-        
-        console.log("**" + display + "**"); 
+        console.log("**" + pageUrl + "**");        
         if (pageUrl.toString() == "diagnoseme"){
             console.log("It's diagnose me devlog!!!");
             var fdisplay = "none;";
         }
         else {
-            var display = "";
+            var fdisplay = "";
         }
-        const display = "none;";
+        const display = fdisplay;
+        console.log("**" + display + "**"); 
 
         return (
             <header id="masthead" className={`site-header ${headerBackground}`} style={{display}}>
