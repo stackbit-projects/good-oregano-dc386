@@ -117,10 +117,11 @@ export default class Header extends React.Component {
         console.log(pageUrl);
         if (pageUrl == "diagnoseme"){
             console.log("hi");
+            style = "display: none;"
         }
 
         return (
-            <header id="masthead" className={`site-header ${headerBackground}`} style="display: none;">
+            <header id="masthead" className={`site-header ${headerBackground}`} style={}>
                 <div className="site-header-wrap">
                     <div className="site-header-inside">
                         <div className="site-branding">
