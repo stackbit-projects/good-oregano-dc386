@@ -118,7 +118,7 @@ export default class Header extends React.Component {
         const page_style = "display: none;" ;
         if (pageUrl == "diagnoseme"){
             console.log("hi");
-            const page_style = "display: none;" ;
+            const display = "none;" ;
         }
 
         return (
