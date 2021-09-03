@@ -16,6 +16,9 @@ Sections: []
 layout: post
 thumb_img_path: /images/1.PNG
 content_img_path: /images/1-73d07a5e.PNG
+excerpt: >-
+  In the next post, we'll share some exciting new visuals we've been working on.
+  From massive graphic improvements, to some slick UI elements
 ---
 After a massive research on Nofar's side, we've managed to get some very cool graphical elements - UI & 3D models!
 
