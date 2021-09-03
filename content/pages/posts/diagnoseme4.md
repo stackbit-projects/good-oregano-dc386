@@ -16,4 +16,5 @@ seo:
 category: devlog
 Sections: []
 layout: post
+thumb_img_path: /images/1.PNG
 ---
