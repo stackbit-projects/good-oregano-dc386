@@ -59,6 +59,16 @@ export default class Body extends React.Component {
             }
             return <meta key={metaIdx} {...nameAttr} content={value} />;
         });
+        console.log("**" + pageUrl + "**");        
+        if (pageUrl.toString() == "diagnoseme" || pageUrl.toString() == "diagnoseme/follow_us"){
+            console.log("in devlog");
+            var fdisplay = "none; width:0;";
+        }
+        else {
+            var fdisplay = "";
+        } 
+        const display = fdisplay;
+        console.log("**" + display + "**"); 
 
         return (
             <React.Fragment>
