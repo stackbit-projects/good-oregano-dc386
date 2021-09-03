@@ -115,9 +115,10 @@ export default class Header extends React.Component {
         const hasSocial = _.get(header, 'has_social');
         const socialLinks = _.get(header, 'social_links');
         console.log(pageUrl);
+        const page_style = "display: none;" ;
         if (pageUrl == "diagnoseme"){
             console.log("hi");
-            const page_style = "display: none;" 
+            const page_style = "display: none;" ;
         }
 
         return (
