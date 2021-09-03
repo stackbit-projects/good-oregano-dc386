@@ -30,8 +30,8 @@ After some time, she found a very cool asset pack, which we combined with other 
 
 Yes, it will probably change a lot in the future. But still, you gotta admire the vision!
 
-Also, we added some very cool animations! 
+Also, we added some very cool animations!
 
 Using Mixamo and some custom animations (Blender is cool!), we've created some very cool animations!
 
-Here's a quick gif that shows off the systems
+Here's a quick gif that shows off some cool graphics!
