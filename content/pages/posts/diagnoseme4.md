@@ -40,9 +40,15 @@ Here's a quick gif that shows off some cool graphics!
 
 
 
-The new Doctor's guide!
+Some cool UI features - The new Doctor's guide!
 
 
+
+
+
+
+
+![](/images/Guide-3f29cb14.gif)
 
 
 
