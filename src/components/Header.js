@@ -117,7 +117,7 @@ export default class Header extends React.Component {
         console.log("**" + pageUrl + "**");        
         if (pageUrl.toString() == "diagnoseme" || pageUrl.toString() == "diagnoseme/follow_us"){
             console.log("in devlog");
-            var fdisplay = "none;";
+            var fdisplay = "none; width:0;";
         }
         else {
             var fdisplay = "";
