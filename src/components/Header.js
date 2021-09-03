@@ -122,7 +122,7 @@ export default class Header extends React.Component {
         }
 
         return (
-            <header id="masthead" className={`site-header ${headerBackground}`} style={page_style}>
+            <header id="masthead" className={`site-header ${headerBackground}`} style={{page_style}}>
                 <div className="site-header-wrap">
                     <div className="site-header-inside">
                         <div className="site-branding">
