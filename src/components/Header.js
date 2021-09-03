@@ -118,10 +118,10 @@ export default class Header extends React.Component {
         const display = ""
         if (pageUrl == "diagnoseme"){
             console.log("It's diagnose me devlog!!!");
-            var display = "none;";
+            display = "none;";
         }
         else {
-            var display = "";
+            display = "";
         }
 
         return (
