@@ -121,7 +121,7 @@ export default class Header extends React.Component {
         }
         else {
             var fdisplay = "";
-        }
+        } 
         const display = fdisplay;
         console.log("**" + display + "**"); 
 
