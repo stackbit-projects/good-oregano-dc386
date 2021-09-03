@@ -117,13 +117,13 @@ export default class Header extends React.Component {
         console.log("**" + pageUrl + "**");
         const display = "none;";
         console.log("**" + display + "**"); 
-        // if (pageUrl.toString() == "diagnoseme"){
-        //     console.log("It's diagnose me devlog!!!");
-        //     display = "none;";
-        // }
-        // else {
-        //     display = "";
-        // }
+        if (pageUrl.toString() == "diagnoseme"){
+            console.log("It's diagnose me devlog!!!");
+            display = "none;";
+        }
+        else {
+            display = "";
+        }
 
         return (
             <header id="masthead" className={`site-header ${headerBackground}`} style={{display}}>
