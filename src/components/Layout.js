@@ -62,7 +62,7 @@ export default class Body extends React.Component {
         console.log("**" + pageTitle + "**");
         if (pageTitle.toString() == "Diagnose Me" || pageTitle.toString() == "diagnoseme/follow_us"){
             console.log("in devlog");
-            var fdisplay = "none; width:0;";
+            var fdisplay = "margin-left: 100px;";
         }
         else {
             var fdisplay = "";
