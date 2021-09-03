@@ -38,3 +38,11 @@ Here's a quick gif that shows off some cool graphics!
 
 ![](/images/ezgif.com-gif-maker-39850c54.gif)
 
+
+
+The new Doctor's guide!
+
+
+
+
+
