@@ -14,10 +14,6 @@ export default class Advanced extends React.Component {
         const title = _.get(page, 'title');
         const sections = _.get(page, 'sections');
         const pageUrl = getPageUrl(page);
-        if (title == "Diagnose Me"){
-            console.log("hi");
-            console.log(components);
-        }
 
         return (
             <Layout page={page} config={config}>
