@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Devlog #4 - Visuals part I'
 subtitle: lorem-ipsum
 date: '2021-09-03'
 thumb_img_alt: lorem-ipsum
