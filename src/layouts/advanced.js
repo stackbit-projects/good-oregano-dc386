@@ -14,7 +14,6 @@ export default class Advanced extends React.Component {
         const title = _.get(page, 'title');
         const sections = _.get(page, 'sections');
         const pageUrl = getPageUrl(page);
-        console.log("hi1!!");
         if (title == "Diagnose Me"){
             console.log("hi");
             components["Header"] = "";
