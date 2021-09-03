@@ -43,3 +43,20 @@ Notice the system message box and some more intuitive UI design!
 Some cool UI features - The new Doctor's guide!
 
 ![](/images/Guide-3f29cb14.gif)
+
+
+
+One last gif for you today, and this one is very cool
+This new gif contains a hint to the next big update (the post is already halfway written!)
+
+**SKILL TREE!**
+
+The next update will contain a lot of information on the game's skill tree! This skill tree will help the player advance using gained exp, and unlock more features and more play styles!
+
+![](/images/skill%20tree%20teaser.gif)
+
+
+
+Until next time!
+
+Tzur & Nofar
