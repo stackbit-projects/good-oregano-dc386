@@ -1,6 +1,9 @@
 ---
 title: 'Devlog #5 - Skill Tree!'
-subtitle: lorem-ipsum
+subtitle: >-
+  We've added a cool new gameplay mechanic - A skill Tree! This Skill Tree
+  unlocks new Doctor's guide pages, Adds active skills such as Blood tests, and
+  some cool perks!
 date: '2021-09-05'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
