@@ -12,12 +12,20 @@ sections:
 
       Learn how to recognize symptoms, collect family history, understand a
       patient's background and motivations so you could offer the best treatment
-      for them. As the game progresses, more options open up and harder cases
-      will appear.
+      for them. 
 
 
-      [Join Us](/diagnoseme/follow_us), GeekyOwls, in the development process
-      and follow this unique game!
+      The game starts easy enough, where the choices are pretty simple. But, as
+      the game progresses, more options open up and harder cases will appear.
+
+      In advanced levels, admitting to the hospital won't be enough, you'll also
+      have to give an **exact diagnosis**, and use collected data (tests,
+      imaging, and research) to reach an exact conclusion of the patient's
+      ailment.
+
+
+      [Join Us](/diagnoseme/follow_us), in our small studio - GeekyOwls, in the
+      development process and follow this unique game!
     actions: []
     type: section_hero
   - title: recent posts
