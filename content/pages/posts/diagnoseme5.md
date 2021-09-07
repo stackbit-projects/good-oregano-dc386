@@ -19,6 +19,7 @@ category: diagnoseme_devlog
 Sections: []
 layout: post
 thumb_img_path: /images/skill tree.PNG
+content_img_path: /images/skill tree-9b9d306f.PNG
 ---
 Skills! we love skills!
 
