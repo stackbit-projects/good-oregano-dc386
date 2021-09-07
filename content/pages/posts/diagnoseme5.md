@@ -19,6 +19,7 @@ seo:
 category: diagnoseme_devlog
 Sections: []
 layout: post
+thumb_img_path: /images/skill tree.PNG
 ---
 ## Lorem ipsum
 
