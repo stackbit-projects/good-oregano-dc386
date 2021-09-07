@@ -21,9 +21,10 @@ Sections: []
 layout: post
 thumb_img_path: /images/skill tree.PNG
 ---
-## Lorem ipsum
+Skills! we like skills!
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+In order to provide a sense of progression, we decided to add the **Skill Tree** feature to our game.
 
-- Lorem ipsum
-- dolor sit amet
+The reason is simple enough - A skill tree will not only give every run a unique experience, but it will also present fairly different gameplay in regards to the choices you make.
+
+For instance, currently, there are 3 main skill tree branches and another "Perks" branch. By choosing to specialize in the "Tests" branch, you will gain active skills you can use in each case, in order to get more information out of a patient. By choosing to unlock the "Specialization" branch or "Investigation" branch, you will receive a completely different set of skills - the "Specialization" branch will give you passive insight on cases related to the specialties you've unlocked, while "Investigation" will actually allow you to research into a patient's family history!
