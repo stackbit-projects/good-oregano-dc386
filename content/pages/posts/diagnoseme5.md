@@ -16,7 +16,7 @@ seo:
   description: ''
   robots: []
   extra: []
-category: devlog
+category: diagnoseme_devlog
 Sections: []
 layout: post
 ---
