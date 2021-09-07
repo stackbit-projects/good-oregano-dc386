@@ -31,13 +31,9 @@ For instance, currently, there are 3 main skill tree branches and another "Perks
 
 It's important to note that the skill tree UI is mostly in the alpha stage - meaning it will change and update to look a lot better. Right now, we're testing functionality and learning how to improves the gameplay.
 
-
-
 By the time you collect 150 exp points, you've unlocked your first level of optional talents. Let's take a closer look at each of them and understand how will they help us diagnose better!
 
 ![](/images/skill%20tree%20open.PNG)
-
-
 
 ## Testing branch - Blood Tests
 
