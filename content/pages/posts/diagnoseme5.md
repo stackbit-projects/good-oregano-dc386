@@ -33,3 +33,15 @@ It's important to note that the skill tree UI is mostly in the alpha stage - mea
 
 
 
+By the time you collect 150 exp points, you've unlocked your first level of optional talents. Let's take a closer look at each of them and understand how will they help us diagnose better!
+
+![](/images/skill%20tree%20open.PNG)
+
+
+
+## Testing branch - Blood Tests
+
+This skill's immediate effect will give you a new button in the patient's UI, and 2 new pages in the Doctor's Guide.
+
+This button will allow you to send a patient to some blood tests. When the results come back, you will be required to open up the Doctor's Guide, and read up on the possible results, in order to understand what's going on and choose a good option for your patient.
+
