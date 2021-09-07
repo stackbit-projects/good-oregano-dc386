@@ -55,5 +55,17 @@ We can open up the Doctor's Guide, and try and understand what type of result th
 
 ![](/images/blood_tests_guide-02e0b546.PNG)
 
-![](https://preview--tzure-dc386.stackbit.dev/\_static/app-assets/images/blood_tests_guide-02e0b546.PNG)
+Basically, the guide says that normal values of RBC (Red blood cell count) are between 4.5 to 5.3 pellets per microliter.
+
+And the patient's value is **below** that scale - it's 4.3
+
+Therefore, she should be admitted for further testing.
+
+
+
+## Investigation Branch - Family History
+
+The skill produces a UI button that allows you to run a quick family background check.
+
+
 
