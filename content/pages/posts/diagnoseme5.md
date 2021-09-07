@@ -21,7 +21,7 @@ Sections: []
 layout: post
 thumb_img_path: /images/skill tree.PNG
 ---
-Skills! we like skills!
+Skills! we love skills!
 
 In order to provide a sense of progression, we decided to add the **Skill Tree** feature to our game.
 
