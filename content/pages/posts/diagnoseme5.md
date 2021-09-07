@@ -41,17 +41,19 @@ By the time you collect 150 exp points, you've unlocked your first level of opti
 
 This button will allow you to send a patient to some blood tests. When the results come back, you will be required to open up the Doctor's Guide and read up on the possible implications of the noted values, in order to understand what's going on and choose a good option for your patient.
 
-The new UI button - 
+The new UI button -
 
 ![](/images/blood%20tests%20ui-c48d6704.PNG)
 
-
-
-After you click the new button, this is an example result - 
+After you click the new button, this is an example result -
 
 ![](/images/blood%20tests%20result.PNG)
 
 We get a result! Now we need to understand the meaning!
 
-So we can open the Doctor's Guide, and try and understand what type of result this is, and how does it affect us.
+We can open up the Doctor's Guide, and try and understand what type of result this is, and how does it affect us.
+
+![](/images/blood_tests_guide-02e0b546.PNG)
+
+![](https://preview--tzure-dc386.stackbit.dev/\_static/app-assets/images/blood_tests_guide-02e0b546.PNG)
 
