@@ -1,5 +1,5 @@
 ---
-title: 'All posts '
+title: All Diagnose Me posts
 hide_title: true
 excerpt: lorem-ipsum
 sections: []
