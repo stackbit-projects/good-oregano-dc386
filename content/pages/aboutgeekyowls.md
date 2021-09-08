@@ -31,6 +31,8 @@ form:
   type: section_form
 layout: page
 ---
+![](/images/Nofar\&Tzur.png)
+
 We have a pretty short history!
 
 We, Tzur & Nofar, both gamers - Tzur is a software developer, Nofar is an Information Security researcher working toward her MSc in Neuroscience.
