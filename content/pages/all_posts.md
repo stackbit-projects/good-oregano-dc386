@@ -3,7 +3,7 @@ title: All Diagnose Me posts
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: All posts
     section_id: lorem-ipsum
     posts_number: 0
     actions: []
