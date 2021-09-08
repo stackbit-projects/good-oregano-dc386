@@ -1,6 +1,8 @@
 ---
 title: About GeekyOwls
-subtitle: 'GeekyOwls is a small indie studio,'
+subtitle: >-
+  GeekyOwls is a small indie studio, with only 2 members - Tzur & Nofar, a
+  happily married couple
 img_alt: lorem-ipsum
 seo:
   title: ''
