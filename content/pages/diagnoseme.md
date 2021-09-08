@@ -28,7 +28,7 @@ sections:
       development process and follow this unique game!
     actions:
       - label: About GeekyOwls
-        url: '#'
+        url: /aboutgeekyowls
         style: link
         icon_class: dev
         new_window: false
