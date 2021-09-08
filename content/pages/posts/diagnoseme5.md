@@ -69,3 +69,19 @@ Two options are available - either the research yields results, or no meaningful
 
 In this case, for example, the family history check returns no interesting results
 
+![](/images/Family%20History1-0ca54118.PNG)
+
+Or, there could be some results. 
+
+But notice that - not always will the family history research will be beneficial. Sometimes it could be just some information that doesn't actually relate to the case. You need to decide if it's meaningful enough or not.
+
+![](/images/Family%20History2.PNG)
+
+
+
+## Specialization Branch - Common Diseases
+
+
+
+
+
