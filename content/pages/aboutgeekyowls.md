@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: About GeekyOwls
 subtitle: lorem-ipsum
 img_alt: lorem-ipsum
 seo:
