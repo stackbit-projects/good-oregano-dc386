@@ -8,8 +8,8 @@ date: '2021-09-05'
 content_img_alt: lorem-ipsum
 excerpt: >-
   We've added a cool new gameplay mechanic - A Talent Tree! This Tree unlocks
-  new Doctor's guide pages, adds active skills such as Blood tests, and some
-  cool perks!
+  new Doctor's guide pages, adds active skills such as Blood tests, Family
+  history research, and some cool perks!
 seo:
   title: ''
   description: ''
