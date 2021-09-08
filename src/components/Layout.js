@@ -59,6 +59,7 @@ export default class Body extends React.Component {
             }
             return <meta key={metaIdx} {...nameAttr} content={value} />;
         });
+        console.log(pageTitle)
         if (pageTitle.toString() == "Diagnose Me" || pageTitle.toString() == "Follow us" || pageTitle.toString() == "About GeekyOwls" || pageTitle.toString() == "Thank you!"){
             var fdisplay = "margin-left: 100px;";
         }
