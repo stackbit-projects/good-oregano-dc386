@@ -51,7 +51,7 @@ sections:
     form_id: All Posts
     form_action: lorem-ipsum
     form_fields: []
-    submit_label: lorem-ipsum
+    submit_label: All Posts
     type: section_form
 seo:
   description: A development blog for An indie simulation game.
