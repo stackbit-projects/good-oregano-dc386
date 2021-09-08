@@ -6,7 +6,7 @@ sections:
   - title: Diagnose Me Devlog
     section_id: lorem-ipsum
     content: >
-      ****![](/images/diagnoe_me_title2-d346ef60.png)
+      ![](/images/diagnoe_me_title2-d346ef60.png)
 
 
       **Diagnose me** is a simulation game, meant for those of us who always
