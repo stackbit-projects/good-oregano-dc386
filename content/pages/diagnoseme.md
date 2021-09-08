@@ -46,6 +46,12 @@ sections:
     actions: []
     type: section_posts
     category: diagnoseme_devlog
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    category: all
+    type: section_posts
 seo:
   description: A development blog for An indie simulation game.
   robots: []
