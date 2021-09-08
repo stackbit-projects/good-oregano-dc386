@@ -33,6 +33,12 @@ sections:
         icon_class: dev
         new_window: false
         no_follow: false
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
     type: section_hero
   - title: recent posts
     section_id: lorem-ipsum
