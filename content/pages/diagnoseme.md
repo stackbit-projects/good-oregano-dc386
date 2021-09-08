@@ -35,7 +35,7 @@ sections:
         no_follow: false
       - label: Follow us
         url: /diagnoseme/follow_us
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false
