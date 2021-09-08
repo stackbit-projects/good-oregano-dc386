@@ -1,6 +1,6 @@
 ---
 title: About GeekyOwls
-subtitle: lorem-ipsum
+subtitle: 'GeekyOwls is a small indie studio,'
 img_alt: lorem-ipsum
 seo:
   title: ''
