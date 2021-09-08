@@ -27,7 +27,7 @@ sections:
       [Join Us](/diagnoseme/follow_us), in our small studio - GeekyOwls, in the
       development process and follow this unique game!
     actions:
-      - label: lorem-ipsum
+      - label: About GeekyOwls
         url: '#'
         style: link
         icon_class: dev
