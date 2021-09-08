@@ -33,7 +33,7 @@ sections:
         icon_class: dev
         new_window: false
         no_follow: false
-      - label: Join us
+      - label: Follow us
         url: '#'
         style: link
         icon_class: dev
