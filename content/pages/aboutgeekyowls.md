@@ -31,8 +31,16 @@ form:
   type: section_form
 layout: page
 ---
-The short story of GeekyOwls is a unique one.
+We have a pretty short history!
 
-Tzur & Nofar, both gamers - Tzur is a software developer, Nofar is an Information Security researcher working toward her MSc in Neuroscience. 
+We, Tzur & Nofar, both gamers - Tzur is a software developer, Nofar is an Information Security researcher working toward her MSc in Neuroscience.
 
-They both love playing games, but never really thought of trying and creating them (even though, Tzur created a small platformer game in order to propose to Nofar!)
+We both love playing games, but never really thought of trying and creating them (even though, Tzur created a small platformer game in order to propose to Nofar!)
+
+During the birth of our son, we had a cool game design idea. What started as a labor room talk to distract, became an actual game design doc, where several weeks after the initial shock of parenthood, we started designing it.
+
+Quickly, we had a working game loop, and things are looking great!
+
+Join us in this cool journey!
+
+Tzur & Nofar
