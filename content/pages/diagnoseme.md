@@ -29,7 +29,7 @@ sections:
     actions:
       - label: About GeekyOwls
         url: /aboutgeekyowls
-        style: button
+        style: icon
         icon_class: dev
         new_window: false
         no_follow: false
