@@ -31,7 +31,9 @@ form:
   type: section_form
 layout: page
 ---
-![](/images/Nofar\&Tzur-252a1d52.png)
+![](/images/Nofar\&Tzur-00cd7c75.png)
+
+
 
 We have a pretty short history!
 
@@ -46,3 +48,7 @@ Quickly, we had a working game loop, and things are looking great!
 Join us in this cool journey!
 
 Tzur & Nofar
+
+
+
+![](/images/proposal.jpg)
