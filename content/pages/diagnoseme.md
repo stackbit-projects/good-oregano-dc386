@@ -48,7 +48,7 @@ sections:
     category: diagnoseme_devlog
   - title: All Posts
     section_id: All Posts
-    form_id: lorem-ipsum
+    form_id: All Posts
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
