@@ -31,7 +31,7 @@ form:
   type: section_form
 layout: page
 ---
-![](/images/Nofar\&Tzur.png)
+![](/images/Nofar\&Tzur-252a1d52.png)
 
 We have a pretty short history!
 
