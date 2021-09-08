@@ -9,7 +9,7 @@ seo:
   description: ''
   robots: []
   extra: []
-page_style: post-image
+page_style: about-image
 form:
   title: lorem-ipsum
   section_id: lorem-ipsum
