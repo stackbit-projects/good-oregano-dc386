@@ -1,9 +1,9 @@
 ---
 title: 'Devlog #5 - Talent Tree!'
 subtitle: >-
-  We've added a cool new gameplay mechanic - A skill Tree! This Skill Tree
-  unlocks new Doctor's guide pages, adds active skills such as Blood tests, and
-  some cool perks!
+  We've added a cool new gameplay mechanic - A Talent Tree! This Tree unlocks
+  new Doctor's guide pages, adds active skills such as Blood tests, and some
+  cool perks!
 date: '2021-09-05'
 content_img_alt: lorem-ipsum
 excerpt: >-
