@@ -43,7 +43,7 @@ During the birth of our son, we had a cool game design idea. What started as a l
 
 Quickly, we had a working game loop, and things are looking great!
 
-Join us in our cool journey!
+[Join us](/diagnoseme/follow_us) in our cool journey!
 
 Tzur & Nofar
 
