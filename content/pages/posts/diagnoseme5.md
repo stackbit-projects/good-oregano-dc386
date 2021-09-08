@@ -71,17 +71,35 @@ In this case, for example, the family history check returns no interesting resul
 
 ![](/images/Family%20History1-0ca54118.PNG)
 
-Or, there could be some results. 
+Or, there could be some results.
 
 But notice that - not always will the family history research will be beneficial. Sometimes it could be just some information that doesn't actually relate to the case. You need to decide if it's meaningful enough or not.
 
 ![](/images/Family%20History2.PNG)
 
-
-
 ## Specialization Branch - Common Diseases
 
+"Common Disease" is a passive ability, that automatically adds information on common diseases such as the flu.
 
+For instance, in "obvious" cases for doctors who have this passive ability, you will have more information from the start.
+
+![](/images/Common%20Diseases.PNG)
+
+Here, you can see that since the player has unlocked this skill, he can now get an automated line each time a new patient comes, which explains that these symptoms look very familiar.
+
+
+
+## Perks Branch
+
+This branch is the most "experimental". We're not sure it will make it to the final version of the game, but it does present some interesting ideas. Since the game will be getting very hard on later levels, getting some talents that will make the game more forgiving.
+
+
+
+The talents are pretty straightforward, hopefully, the alpha version will provide some basic gameplay options and you'll be able to get to know this new mechanic and give some feedback.
+
+Anyway, this is it for now!
+
+Your's truly - the GeekyOwls - Tzur & Nofar
 
 
 
