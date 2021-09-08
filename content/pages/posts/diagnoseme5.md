@@ -21,7 +21,7 @@ layout: post
 thumb_img_path: /images/skill tree.PNG
 content_img_path: /images/skill tree-9b9d306f.PNG
 ---
-Skills! we love skills!
+Talents! They provide such a fun game mechanic, we knew we just had to add them to our game!
 
 In order to provide a sense of progression, we decided to add the **Skill Tree** feature to our game.
 
@@ -61,11 +61,11 @@ And the patient's value is **below** that scale - it's 4.3
 
 Therefore, she should be admitted for further testing.
 
-
-
 ## Investigation Branch - Family History
 
 The skill produces a UI button that allows you to run a quick family background check.
 
+Two options are available - either the research yields results, or no meaningful results exist.
 
+In this case, for example, the family history check returns no interesting results
 
