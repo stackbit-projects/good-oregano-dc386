@@ -2,7 +2,7 @@
 title: Thank you!
 subtitle: >-
   thank you for subscribing to our Newsletter! Please check your email to
-  confirm you mail addres!
+  confirm your mail address!
 img_alt: lorem-ipsum
 seo:
   title: ''
