@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Tzur E.'
-    content: >+
+    content: >
       I'm a Software and Game developer, gamer, bookworm, and also a dad.
 
 
@@ -13,14 +13,11 @@ sections:
       my wife on our first Single-player game - [Diagnose me](/diagnoseme).
 
 
-
-
       Official Diagnose Me site -[ www.diagnoseme.me](www.diagnoseme.me)
 
 
       Official Diagnose Me Trailer can be found
       [here](https://youtu.be/tMSsDtbAUZM)
-
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts across all devlogs
